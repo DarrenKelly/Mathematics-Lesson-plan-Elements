@@ -1,0 +1,682 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Virtual Balance Scale</title>
+    <style>
+      /* Global Styles */
+      html, body {
+          height: 100%;
+          margin: 0;
+          padding: 0;
+      }
+
+      body {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          background-color: #f0f4f8; /* Light blue-grey background */
+          font-family: 'Arial', sans-serif;
+          overflow: hidden; /* Prevent scrolling */
+          color: #333;
+      }
+
+      /* Main Application Container */
+      .app-container {
+          display: flex;
+          flex-direction: column;
+          width: 95%;
+          max-width: 900px; /* Max width for desktop */
+          height: 98vh; /* Take up most of the viewport height, leaving a small margin */
+          background-color: #ffffff;
+          border-radius: 20px;
+          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+          padding: 20px;
+          box-sizing: border-box;
+          position: relative; /* For absolute positioning of children if needed */
+      }
+
+      /* Balance Area */
+      .balance-area {
+          flex-grow: 1; /* Allow it to grow and take available space */
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          position: relative;
+          margin-bottom: 20px; /* Space above weights tray */
+          min-height: 250px; /* Ensure a minimum height for the balance area */
+      }
+
+      /* SVG for Balance Scale */
+      .balance-svg {
+          width: 100%;
+          height: 100%;
+          /* Removed max-height: 400px; to allow it to fill balance-area */
+          overflow: visible; /* Allow elements to extend slightly if needed */
+          /* Explicitly set preserveAspectRatio to ensure consistent scaling */
+          preserveAspectRatio="xMidYMid meet";
+      }
+
+      /* Balance Lever */
+      #lever {
+          transition: transform 0.5s ease-out; /* Smooth rotation transition */
+      }
+
+      /* Pivot */
+      #pivot {
+          fill: #85889e; /* Greyish color */
+          stroke: #000000;
+          stroke-width: 3;
+      }
+
+      /* Equals Sign on Pivot */
+      #equals-sign {
+          font-size: 70px;
+          font-weight: bold;
+          fill: #FFD700; /* Bright yellow */
+          text-anchor: middle;
+          dominant-baseline: middle;
+          font-family: 'Arial', sans-serif; /* Ensure Arial for equals sign */
+          transition: opacity 0.3s ease-in-out; /* Smooth transition for opacity changes */
+      }
+
+      /* Flashing animation for equals sign */
+      @keyframes flash {
+          0%, 100% { opacity: 1; }
+          50% { opacity: 0; }
+      }
+      .flashing {
+          animation: flash 0.5s ease-in-out 6; /* 3 flashes (on/off/on/off/on/off) over 3 seconds */
+      }
+
+      /* Styles for weights on the lever */
+      .lever-weight {
+          cursor: grab; /* Indicate draggable */
+      }
+
+      /* Weights Tray */
+      .weights-tray {
+          flex-shrink: 0; /* Prevent shrinking */
+          height: 120px; /* Fixed height for the tray */
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          flex-wrap: wrap; /* Allow weights to wrap on smaller screens */
+          gap: 20px; /* Gap between weights, approx half their width */
+          padding: 15px 0;
+          border-top: 1px solid #eee;
+          border-bottom: 1px solid #eee;
+          margin-bottom: 20px;
+      }
+
+      /* Individual Weight Box */
+      .weight-box {
+          width: 70px; /* Fixed size for weights */
+          height: 70px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          border-radius: 10px; /* Rounded corners */
+          border: 3px solid #333;
+          font-size: 28px;
+          font-weight: bold;
+          cursor: pointer;
+          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+          transition: transform 0.1s ease-in-out;
+      }
+
+      .weight-box:active {
+          transform: scale(0.95); /* Slight scale down on click */
+      }
+
+      /* Specific weight colors */
+      .weight-red { background-color: #ff6b6b; }
+      .weight-blue { background-color: #6bb9ff; }
+      .weight-yellow { background-color: #ffe66b; }
+      .weight-green { background-color: #6bff91; }
+      .weight-purple { background-color: #b96bff; }
+      .weight-black { background-color: #333333; }
+
+      /* Text color for 'y' weight */
+      .weight-black .weight-text {
+          color: #ffffff; /* White text for black weight */
+      }
+
+      /* Default text color for other weights */
+      .weight-box .weight-text {
+          color: #000000; /* Black text for other weights */
+      }
+
+      /* Buttons Container */
+      .buttons-container {
+          flex-shrink: 0; /* Fixed height, doesn't grow/shrink */
+          height: 70px; /* Fixed height for buttons area */
+          display: flex;
+          justify-content: center;
+          gap: 30px; /* Space between buttons */
+          padding-top: 10px;
+      }
+
+      /* Individual Button Style */
+      .control-button {
+          padding: 15px 30px;
+          font-size: 20px;
+          font-weight: bold;
+          border: none;
+          border-radius: 15px;
+          cursor: pointer;
+          background-color: #cccccc; /* Default grey */
+          color: #333;
+          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+          transition: background-color 0.3s ease, transform 0.1s ease;
+          min-width: 120px; /* Ensure consistent width */
+          text-align: center;
+          display: flex; /* For arrow icons */
+          justify-content: center;
+          align-items: center;
+      }
+
+      .control-button:hover {
+          transform: translateY(-2px);
+      }
+
+      .control-button:active {
+          transform: translateY(0);
+          box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+      }
+
+      /* Active button states - Added !important */
+      .control-button.active-left {
+          background-color: #28a745 !important; /* Dark green */
+          color: #ffffff !important;
+      }
+
+      .control-button.active-right {
+          background-color: #28a745 !important; /* Dark green */
+          color: #ffffff !important;
+      }
+
+      /* Arrow icons (using SVG for simplicity and scalability) */
+      .arrow-icon {
+          width: 24px;
+          height: 24px;
+          fill: #333; /* Default arrow color */
+      }
+
+      .control-button.active-left .arrow-icon,
+      .control-button.active-right .arrow-icon {
+          fill: #ffffff !important; /* White arrow color when active */
+      }
+
+      /* Responsive adjustments */
+      @media (max-width: 768px) {
+          .app-container {
+              width: 98%;
+              padding: 15px;
+              height: 95vh;
+          }
+          .weight-box {
+              width: 60px;
+              height: 60px;
+              font-size: 24px;
+              border-width: 2px;
+          }
+          .weights-tray {
+              gap: 15px;
+              padding: 10px 0;
+          }
+          .control-button {
+              padding: 12px 20px;
+              font-size: 18px;
+              min-width: 100px;
+          }
+          .buttons-container {
+              gap: 20px;
+          }
+          #equals-sign {
+              font-size: 32px;
+          }
+      }
+
+      @media (max-width: 480px) {
+          .app-container {
+              padding: 10px;
+          }
+          .weight-box {
+              width: 50px;
+              height: 50px;
+              font-size: 20px;
+          }
+          .weights-tray {
+              gap: 10px;
+          }
+          .control-button {
+              padding: 10px 15px;
+              font-size: 16px;
+              min-width: 80px;
+          }
+          .buttons-container {
+              gap: 15px;
+          }
+          #equals-sign {
+              font-size: 28px;
+          }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="app-container">
+      <div class="balance-area">
+        <svg class="balance-svg" viewBox="0 0 800 500">
+          <!-- Pivot and Equals Sign remain outside the rotatable group -->
+          <polygon
+            id="pivot"
+            points="400,350 360,430 440,430"
+            fill="#85889e"
+            stroke="#000"
+            stroke-width="3"
+          ></polygon>
+          <text
+            id="equals-sign"
+            x="400"
+            y="410"
+            text-anchor="middle"
+            dominant-baseline="middle"
+          >
+            =
+          </text>
+
+          <g id="balance-rotatable-group" transform-origin="0 0">
+            <rect
+              id="lever"
+              x="-300"
+              y="-10"
+              width="600"
+              height="20"
+              fill="#1e64af"
+              stroke="#000"
+              stroke-width="2"
+              rx="5"
+              ry="5"
+            ></rect>
+
+            <g id="left-weights-container" transform="translate(-150, -70)"></g>
+            <g id="right-weights-container" transform="translate(150, -70)"></g>
+          </g>
+        </svg>
+      </div>
+
+      <div class="weights-tray" id="weights-tray">
+        <!-- Weights will be dynamically added here by JavaScript -->
+      </div>
+
+      <div class="buttons-container">
+        <button id="left-button" class="control-button">
+          <svg class="arrow-icon" viewBox="0 0 24 24">
+            <path d="M15.41 16.59L10.83 12l4.58-4.59L14 6l-6 6 6 6z" />
+          </svg>
+        </button>
+        <button id="reset-button" class="control-button">Reset</button>
+        <button id="right-button" class="control-button">
+          <svg class="arrow-icon" viewBox="0 0 24 24">
+            <path d="M8.59 16.59L13.17 12 8.59 7.41 10 6l6 6-6 6z" />
+          </svg>
+        </button>
+      </div>
+    </div>
+
+    <script>
+      // --- Configuration ---
+      const WEIGHT_DATA = [
+        { value: 1, text: "1", color: "#ff6b6b", textColor: "#000" }, // Red
+        { value: 3, text: "3", color: "#6bb9ff", textColor: "#000" }, // Blue
+        { value: 5, text: "5", color: "#ffe66b", textColor: "#000" }, // Yellow
+        { value: 10, text: "10", color: "#6bff91", textColor: "#000" }, // Green
+        { value: 7, text: "x", color: "#b96bff", textColor: "#000" }, // Purple (x=7)
+        { value: 2, text: "y", color: "#333333", textColor: "#fff" }, // Black (y=2)
+      ];
+
+      const MAX_TILT_ANGLE = 20; // Maximum rotation angle for the lever in degrees
+      const LEVER_WEIGHT_OFFSET_X = -35; // Half width of weight box to center it on lever
+      const LEVER_WEIGHT_OFFSET_Y = -20; // Half height of weight box to position its content (rect/text) centered within it
+      const LEVER_WEIGHT_SPACING = 75; // Vertical spacing between stacked weights on the lever
+
+      // --- DOM Elements ---
+      const weightsTray = document.getElementById("weights-tray");
+      const leftButton = document.getElementById("left-button");
+      const resetButton = document.getElementById("reset-button");
+      const rightButton = document.getElementById("right-button");
+      const lever = document.getElementById("lever");
+      const equalsSign = document.getElementById("equals-sign");
+      const leftWeightsContainer = document.getElementById(
+        "left-weights-container"
+      );
+      const rightWeightsContainer = document.getElementById(
+        "right-weights-container"
+      );
+      const balanceRotatableGroup = document.getElementById(
+        "balance-rotatable-group"
+      ); // New element
+
+      // --- State Variables ---
+      let activeSide = null; // 'left' or 'right'
+      let totalLeftWeight = 0;
+      let totalRightWeight = 0;
+      let weightsOnLever = {
+        left: [],
+        right: [],
+      };
+
+      // --- Functions ---
+
+      /**
+       * Creates an SVG group element for a weight to be placed on the lever.
+       * @param {object} weightConfig - The configuration object for the weight (value, text, color, textColor).
+       * @param {number} xOffset - X position offset relative to container.
+       * @param {number} yOffset - Y position offset relative to container.
+       * @returns {SVGGElement} The SVG group element representing the weight.
+       */
+      function createLeverWeightSVG(weightConfig, xOffset, yOffset) {
+        console.log(
+          "createLeverWeightSVG called for:",
+          weightConfig.text,
+          "at x:",
+          xOffset,
+          "y:",
+          yOffset
+        );
+        const g = document.createElementNS("http://www.w3.org/2000/svg", "g");
+        g.classList.add("lever-weight");
+        g.setAttribute("transform", `translate(${xOffset}, ${yOffset})`);
+        g.dataset.value = weightConfig.value; // Store the numerical value
+
+        const rect = document.createElementNS(
+          "http://www.w3.org/2000/svg",
+          "rect"
+        );
+        rect.setAttribute("x", LEVER_WEIGHT_OFFSET_X);
+        rect.setAttribute("y", LEVER_WEIGHT_OFFSET_Y);
+        rect.setAttribute("width", 70);
+        rect.setAttribute("height", 70);
+        rect.setAttribute("fill", weightConfig.color);
+        rect.setAttribute("stroke", "#333");
+        rect.setAttribute("stroke-width", 3);
+        rect.setAttribute("rx", 10);
+        rect.setAttribute("ry", 10);
+
+        const text = document.createElementNS(
+          "http://www.w3.org/2000/svg",
+          "text"
+        );
+        text.setAttribute("x", 0); // Centered within the group (0,0 is center)
+        text.setAttribute("y", 15);
+        text.setAttribute("text-anchor", "middle");
+        text.setAttribute("dominant-baseline", "middle");
+        text.setAttribute("font-size", "28px");
+        text.setAttribute("font-weight", "bold");
+        text.setAttribute("fill", weightConfig.textColor);
+        text.setAttribute("font-family", "Arial, sans-serif"); // Ensure Arial for weight text
+        text.textContent = weightConfig.text;
+
+        g.appendChild(rect);
+        g.appendChild(text);
+
+        // Add click listener to remove weight from lever
+        g.addEventListener("click", (event) => {
+          event.stopPropagation(); // Prevent event bubbling to parent containers
+          removeWeightFromLever(
+            g,
+            weightConfig.value,
+            g.parentNode.id === "left-weights-container" ? "left" : "right"
+          );
+        });
+
+        return g;
+      }
+
+      /**
+       * Renders the initial weights in the tray at the bottom of the screen.
+       */
+      function renderWeightsTray() {
+        console.log("renderWeightsTray called.");
+        weightsTray.innerHTML = ""; // Clear existing weights
+        WEIGHT_DATA.forEach((weight) => {
+          const weightBox = document.createElement("div");
+          weightBox.classList.add("weight-box");
+          weightBox.classList.add(`weight-${weight.color.replace("#", "")}`); // Add color class
+          weightBox.style.backgroundColor = weight.color; // Set background color directly
+
+          const weightText = document.createElement("span");
+          weightText.classList.add("weight-text");
+          weightText.textContent = weight.text;
+          weightText.style.color = weight.textColor; // Set text color directly
+
+          weightBox.appendChild(weightText);
+          weightBox.dataset.value = weight.value;
+          weightBox.dataset.text = weight.text;
+          weightBox.dataset.color = weight.color;
+          weightBox.dataset.textColor = weight.textColor;
+
+          weightBox.addEventListener("click", handleWeightTrayClick);
+          weightsTray.appendChild(weightBox);
+        });
+      }
+
+      /**
+       * Handles the click event on a weight in the tray.
+       * Creates a copy and adds it to the lever on the active side.
+       * @param {Event} event - The click event.
+       */
+      function handleWeightTrayClick(event) {
+        console.log("handleWeightTrayClick triggered");
+        console.log("Current activeSide:", activeSide);
+        if (!activeSide) {
+          console.log("No active side selected. Doing nothing.");
+          return;
+        }
+
+        const clickedWeight = event.currentTarget.dataset;
+        const weightConfig = {
+          value: parseFloat(clickedWeight.value),
+          text: clickedWeight.text,
+          color: clickedWeight.color,
+          textColor: clickedWeight.textColor,
+        };
+
+        addWeightToLever(weightConfig, activeSide);
+      }
+
+      /**
+       * Adds a weight to the specified side of the lever.
+       * @param {object} weightConfig - The configuration object for the weight.
+       * @param {string} side - 'left' or 'right'.
+       */
+      function addWeightToLever(weightConfig, side) {
+        console.log(
+          "addWeightToLever called for side:",
+          side,
+          "config:",
+          weightConfig
+        );
+        const container =
+          side === "left" ? leftWeightsContainer : rightWeightsContainer;
+        console.log("Target container:", container);
+        const currentStackHeight = weightsOnLever[side].length;
+        const yPos = -currentStackHeight * LEVER_WEIGHT_SPACING; // Stack weights vertically
+
+        const newWeightSVG = createLeverWeightSVG(weightConfig, 0, yPos); // xOffset is 0 as container is already positioned
+        container.appendChild(newWeightSVG);
+        console.log(
+          "Appended newWeightSVG to container. Container children count:",
+          container.children.length
+        );
+
+        weightsOnLever[side].push(newWeightSVG); // Store reference to the SVG element
+        updateTotalWeight(weightConfig.value, side, "add");
+      }
+
+      /**
+       * Removes a weight from the lever.
+       * @param {SVGGElement} weightSVG - The SVG group element to remove.
+       * @param {number} value - The numerical value of the weight.
+       * @param {string} side - 'left' or 'right'.
+       */
+      function removeWeightFromLever(weightSVG, value, side) {
+        weightSVG.remove(); // Remove from DOM
+
+        // Remove from our tracking array
+        const index = weightsOnLever[side].indexOf(weightSVG);
+        if (index > -1) {
+          weightsOnLever[side].splice(index, 1);
+        }
+
+        // Re-position remaining weights on that side
+        const container =
+          side === "left" ? leftWeightsContainer : rightWeightsContainer;
+        Array.from(container.children).forEach((el, idx) => {
+          const yPos = -idx * LEVER_WEIGHT_SPACING;
+          el.setAttribute("transform", `translate(0, ${yPos})`);
+        });
+
+        updateTotalWeight(value, side, "remove");
+      }
+
+      /**
+       * Updates the total weight for a given side and triggers balance update.
+       * @param {number} value - The weight value to add or remove.
+       * @param {string} side - 'left' or 'right'.
+       * @param {string} operation - 'add' or 'remove'.
+       */
+      function updateTotalWeight(value, side, operation) {
+        if (operation === "add") {
+          if (side === "left") {
+            totalLeftWeight += value;
+          } else {
+            totalRightWeight += value;
+          }
+        } else if (operation === "remove") {
+          if (side === "left") {
+            totalLeftWeight -= value;
+          } else {
+            totalRightWeight -= value;
+          }
+        }
+        updateBalance();
+      }
+
+      // Define the absolute SVG coordinates for the group's translation
+      const GROUP_TRANSLATE_X = 400; // X-coordinate of the pivot's top center
+      const GROUP_TRANSLATE_Y = 350; // Y-coordinate of the pivot's top center
+
+      // Store initial positions of weight containers relative to the balance-rotatable-group's origin (0,0)
+      const initialLeftContainerX = -150;
+      const initialLeftContainerY = -60; // Adjusted to position weights on top of the lever
+      const initialRightContainerX = 150;
+      const initialRightContainerY = -30; // Adjusted to position weights on top of the lever
+
+      /**
+       * Updates the visual balance of the lever based on total weights.
+       */
+      function updateBalance() {
+        let rotation = 0;
+        equalsSign.classList.remove("flashing"); // Stop flashing if it was
+
+        if (totalLeftWeight > totalRightWeight) {
+          rotation = -MAX_TILT_ANGLE; // Tilt left
+          equalsSign.style.opacity = 0; // Make invisible when out of balance
+        } else if (totalRightWeight > totalLeftWeight) {
+          rotation = MAX_TILT_ANGLE; // Tilt right
+          equalsSign.style.opacity = 0; // Make invisible when out of balance
+        } else {
+          // Balanced
+          rotation = 0;
+          equalsSign.style.opacity = 1; // Make visible when balanced
+          if (totalLeftWeight > 0 || totalRightWeight > 0) {
+            // Only flash if there are weights on the scale
+            flashEqualsSign();
+          }
+        }
+        // Apply rotation and translation to the parent group, which contains the lever and weight containers
+        balanceRotatableGroup.style.transform = `translate(${GROUP_TRANSLATE_X}px, ${GROUP_TRANSLATE_Y}px) rotate(${rotation}deg)`;
+      }
+
+      /**
+       * Animates the equals sign to flash 3 times.
+       */
+      function flashEqualsSign() {
+        equalsSign.classList.add("flashing");
+        // Remove the class after animation to allow it to be re-added for subsequent flashes
+        setTimeout(() => {
+          equalsSign.classList.remove("flashing");
+        }, 3000); // Animation duration is 3s (0.5s * 6 iterations)
+      }
+
+      /**
+       * Handles the click event for the left/right/reset buttons.
+       * @param {string} buttonType - 'left', 'right', or 'reset'.
+       */
+      function handleButtonClick(buttonType) {
+        console.log("handleButtonClick triggered for:", buttonType);
+        if (buttonType === "reset") {
+          resetApp();
+        } else {
+          // Toggle active side buttons
+          if (buttonType === "left") {
+            if (activeSide === "left") {
+              activeSide = null; // Deactivate
+              leftButton.classList.remove("active-left");
+            } else {
+              activeSide = "left";
+              leftButton.classList.add("active-left");
+              rightButton.classList.remove("active-right");
+            }
+          } else {
+            // buttonType === 'right'
+            if (activeSide === "right") {
+              activeSide = null; // Deactivate
+              rightButton.classList.remove("active-right");
+            } else {
+              activeSide = "right";
+              rightButton.classList.add("active-right");
+              leftButton.classList.remove("active-left");
+            }
+          }
+        }
+        console.log("activeSide after button click:", activeSide);
+      }
+
+      /**
+       * Resets the entire application to its initial state.
+       */
+      function resetApp() {
+        activeSide = null;
+        totalLeftWeight = 0;
+        totalRightWeight = 0;
+        weightsOnLever = { left: [], right: [] };
+
+        leftButton.classList.remove("active-left");
+        rightButton.classList.remove("active-right");
+        equalsSign.classList.remove("flashing");
+        equalsSign.style.opacity = 1; // Ensure equals sign is visible on reset
+
+        // Remove all weights from the lever visually
+        leftWeightsContainer.innerHTML = "";
+        rightWeightsContainer.innerHTML = "";
+
+        updateBalance(); // Reset lever position
+      }
+
+      // --- Event Listeners ---
+      leftButton.addEventListener("click", () => handleButtonClick("left"));
+      resetButton.addEventListener("click", () => handleButtonClick("reset"));
+      rightButton.addEventListener("click", () => handleButtonClick("right"));
+
+      // --- Initialization ---
+      document.addEventListener("DOMContentLoaded", () => {
+        renderWeightsTray();
+        updateBalance(); // Ensure initial balance state is correct
+      });
+    </script>
+  </body>
+</html>
