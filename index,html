@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Load Simulator</title>
+  </head>
+  <body>
+    <h1>Loading Cake Stall Simulator...</h1>
+    <p>If you are not redirected automatically, please click the link below.</p>
+
+    <a href="cake_stall_simulator.html">Go to Cake Stall Simulator</a>
+
+    <script>
+      // Use JavaScript to automatically redirect to the simulator page.
+      // This will happen after a brief delay to allow the user to read the message.
+      setTimeout(() => {
+        window.location.href = "cake_stall_simulator.html";
+      }, 1000); // Redirect after 1 second
+    </script>
+  </body>
+</html>
