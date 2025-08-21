@@ -1,0 +1,770 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cake Stall Business Simulator</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        min-height: 100vh;
+        padding: 20px;
+        color: #333;
+      }
+
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        background: rgba(255, 255, 255, 0.95);
+        border-radius: 20px;
+        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+        overflow: hidden;
+      }
+
+      .header {
+        background: linear-gradient(135deg, #ff6b6b, #ee5a24);
+        padding: 30px;
+        text-align: center;
+        color: white;
+      }
+
+      .header h1 {
+        font-size: 2.5em;
+        margin-bottom: 10px;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+      }
+
+      .header p {
+        font-size: 1.2em;
+        opacity: 0.9;
+      }
+
+      .main-content {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+        padding: 30px;
+      }
+
+      .controls-panel,
+      .results-panel {
+        background: white;
+        border-radius: 15px;
+        padding: 25px;
+        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+      }
+
+      .controls-panel h2,
+      .results-panel h2 {
+        color: #2c3e50;
+        margin-bottom: 20px;
+        font-size: 1.5em;
+        border-bottom: 3px solid #3498db;
+        padding-bottom: 10px;
+      }
+
+      .input-group {
+        margin-bottom: 20px;
+      }
+
+      .input-group label {
+        display: block;
+        margin-bottom: 8px;
+        font-weight: 600;
+        color: #34495e;
+      }
+
+      .input-group input,
+      .input-group select {
+        width: 100%;
+        padding: 12px;
+        border: 2px solid #e1e8ed;
+        border-radius: 8px;
+        font-size: 16px;
+        transition: all 0.3s ease;
+      }
+
+      .input-group input:focus,
+      .input-group select:focus {
+        outline: none;
+        border-color: #3498db;
+        box-shadow: 0 0 10px rgba(52, 152, 219, 0.2);
+      }
+
+      .scenario-selector {
+        margin-bottom: 25px;
+      }
+
+      .scenario-btn {
+        display: inline-block;
+        margin: 5px;
+        padding: 10px 20px;
+        background: #ecf0f1;
+        border: 2px solid #bdc3c7;
+        border-radius: 25px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        font-weight: 500;
+      }
+
+      .scenario-btn:hover {
+        background: #3498db;
+        color: white;
+        border-color: #3498db;
+      }
+
+      .scenario-btn.active {
+        background: #27ae60;
+        color: white;
+        border-color: #27ae60;
+      }
+
+      .expression-display {
+        background: #f8f9fa;
+        border: 2px dashed #3498db;
+        border-radius: 10px;
+        padding: 20px;
+        margin: 15px 0;
+        min-height: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.3em;
+        font-family: "Courier New", monospace;
+        color: #2c3e50;
+        position: relative;
+      }
+
+      .expression-display.has-content {
+        border-color: #27ae60;
+        background: #d5f4e6;
+      }
+
+      .calculate-btn {
+        width: 100%;
+        padding: 15px;
+        background: linear-gradient(135deg, #27ae60, #2ecc71);
+        color: white;
+        border: none;
+        border-radius: 10px;
+        font-size: 18px;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        margin-top: 20px;
+      }
+
+      .calculate-btn:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 5px 15px rgba(46, 204, 113, 0.3);
+      }
+
+      .calculate-btn:active {
+        transform: translateY(0);
+      }
+
+      .results-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 15px;
+        margin: 20px 0;
+      }
+
+      .result-card {
+        background: linear-gradient(135deg, #74b9ff, #0984e3);
+        color: white;
+        padding: 20px;
+        border-radius: 10px;
+        text-align: center;
+        transform: translateY(4px);
+        transition: all 0.3s ease;
+      }
+
+      .result-card:hover {
+        transform: translateY(0);
+      }
+
+      .result-card h3 {
+        font-size: 0.9em;
+        margin-bottom: 10px;
+        opacity: 0.9;
+      }
+
+      .result-card .value {
+        font-size: 1.8em;
+        font-weight: bold;
+      }
+
+      .challenge-section {
+        background: linear-gradient(135deg, #fd79a8, #fdcb6e);
+        color: white;
+        margin: 20px 0;
+        padding: 20px;
+        border-radius: 10px;
+      }
+
+      .challenge-section h3 {
+        margin-bottom: 15px;
+        font-size: 1.3em;
+      }
+
+      .student-input {
+        background: white;
+        color: #333;
+        border: 2px solid #ddd;
+        padding: 10px;
+        border-radius: 5px;
+        width: 100%;
+        font-family: "Courier New", monospace;
+        margin: 10px 0;
+      }
+
+      .feedback {
+        margin-top: 15px;
+        padding: 15px;
+        border-radius: 8px;
+        font-weight: 500;
+      }
+
+      .feedback.correct {
+        background: #d4edda;
+        color: #155724;
+        border: 1px solid #c3e6cb;
+      }
+
+      .feedback.incorrect {
+        background: #f8d7da;
+        color: #721c24;
+        border: 1px solid #f5c6cb;
+      }
+
+      .graph-container {
+        background: white;
+        border-radius: 10px;
+        padding: 20px;
+        margin-top: 20px;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+      }
+
+      @media (max-width: 768px) {
+        .main-content {
+          grid-template-columns: 1fr;
+          gap: 20px;
+          padding: 20px;
+        }
+
+        .results-grid {
+          grid-template-columns: 1fr;
+        }
+
+        .header h1 {
+          font-size: 2em;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h1>🧁 Interactive Cake Stall Business Simulator</h1>
+        <p>
+          Enhanced Assessment: Q1b - Technology-Enabled Algebraic Exploration
+        </p>
+      </div>
+
+      <div class="main-content">
+        <div class="controls-panel">
+          <h2>🎛️ Business Parameters</h2>
+
+          <div class="scenario-selector">
+            <label><strong>Choose a Scenario:</strong></label>
+            <div class="scenario-btn active" data-scenario="basic">
+              Basic Cake Stall
+            </div>
+            <div class="scenario-btn" data-scenario="seasonal">
+              Seasonal Pricing
+            </div>
+            <div class="scenario-btn" data-scenario="bulk">Bulk Discount</div>
+            <div class="scenario-btn" data-scenario="competition">
+              Market Competition
+            </div>
+          </div>
+
+          <div class="input-group">
+            <label for="costPerCake">Cost per cake ($c):</label>
+            <input
+              type="number"
+              id="costPerCake"
+              value="3"
+              step="0.10"
+              min="0"
+            />
+          </div>
+
+          <div class="input-group">
+            <label for="pricePerCake">Selling price per cake ($p):</label>
+            <input
+              type="number"
+              id="pricePerCake"
+              value="8"
+              step="0.10"
+              min="0"
+            />
+          </div>
+
+          <div class="input-group">
+            <label for="fixedCost">Fixed stall fee:</label>
+            <input type="number" id="fixedCost" value="20" step="1" min="0" />
+          </div>
+
+          <div class="input-group">
+            <label for="numCakes">Number of cakes (x):</label>
+            <input type="number" id="numCakes" value="15" step="1" min="0" />
+          </div>
+
+          <button class="calculate-btn" onclick="updateExpressions()">
+            🧮 Generate Expressions
+          </button>
+
+          <div class="challenge-section">
+            <h3>🎯 Challenge: Write Your Expressions</h3>
+            <label>Cost Expression C(x) =</label>
+            <input
+              type="text"
+              class="student-input"
+              id="costExpression"
+              placeholder="Enter your cost expression..."
+            />
+
+            <label>Revenue Expression R(x) =</label>
+            <input
+              type="text"
+              class="student-input"
+              id="revenueExpression"
+              placeholder="Enter your revenue expression..."
+            />
+
+            <label>Profit Expression P(x) =</label>
+            <input
+              type="text"
+              class="student-input"
+              id="profitExpression"
+              placeholder="Enter your profit expression..."
+            />
+
+            <button
+              class="calculate-btn"
+              onclick="checkExpressions()"
+              style="margin-top: 10px"
+            >
+              ✅ Check My Work
+            </button>
+
+            <div id="feedback" class="feedback" style="display: none"></div>
+          </div>
+        </div>
+
+        <div class="results-panel">
+          <h2>📊 Dynamic Results</h2>
+
+          <div class="expression-display" id="costDisplay">
+            Cost Expression: Enter parameters to generate
+          </div>
+
+          <div class="expression-display" id="revenueDisplay">
+            Revenue Expression: Enter parameters to generate
+          </div>
+
+          <div class="expression-display" id="profitDisplay">
+            Profit Expression: Enter parameters to generate
+          </div>
+
+          <div class="results-grid">
+            <div class="result-card">
+              <h3>Total Cost</h3>
+              <div class="value" id="totalCost">$0</div>
+            </div>
+
+            <div class="result-card">
+              <h3>Total Revenue</h3>
+              <div class="value" id="totalRevenue">$0</div>
+            </div>
+
+            <div class="result-card">
+              <h3>Net Profit</h3>
+              <div class="value" id="netProfit">$0</div>
+            </div>
+
+            <div class="result-card">
+              <h3>Break-even Point</h3>
+              <div class="value" id="breakEven">0 cakes</div>
+            </div>
+          </div>
+
+          <div class="graph-container">
+            <h3>📈 Profit vs Number of Cakes</h3>
+            <canvas id="profitChart" width="400" height="300"></canvas>
+          </div>
+
+          <div class="challenge-section">
+            <h3>🚀 Advanced Challenge</h3>
+            <p>
+              <strong>Scenario Analysis:</strong> If a competitor opens next
+              door and you need to reduce your price by 15% to stay competitive,
+              how would this affect your break-even point?
+            </p>
+
+            <label>New break-even point:</label>
+            <input
+              type="number"
+              class="student-input"
+              id="competitorBreakeven"
+              placeholder="Calculate new break-even..."
+            />
+
+            <button class="calculate-btn" onclick="checkCompetitorChallenge()">
+              🔍 Analyze Impact
+            </button>
+
+            <div
+              id="competitorFeedback"
+              class="feedback"
+              style="display: none"
+            ></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      let currentScenario = "basic";
+
+      // Scenario configurations
+      const scenarios = {
+        basic: {
+          name: "Basic Cake Stall",
+          description: "Standard pricing model",
+          modifyPrice: (price) => price,
+          modifyCost: (cost) => cost,
+          extraFees: 0,
+        },
+        seasonal: {
+          name: "Seasonal Pricing",
+          description: "Holiday premium pricing",
+          modifyPrice: (price) => price * 1.2,
+          modifyCost: (cost) => cost * 1.1,
+          extraFees: 10,
+        },
+        bulk: {
+          name: "Bulk Discount",
+          description: "Discount for large orders",
+          modifyPrice: (price, qty) => (qty > 20 ? price * 0.9 : price),
+          modifyCost: (cost, qty) => (qty > 20 ? cost * 0.95 : cost),
+          extraFees: 0,
+        },
+        competition: {
+          name: "Market Competition",
+          description: "Competitive market pricing",
+          modifyPrice: (price) => price * 0.85,
+          modifyCost: (cost) => cost,
+          extraFees: 5,
+        },
+      };
+
+      // Initialize
+      document.addEventListener("DOMContentLoaded", function () {
+        updateExpressions();
+        setupEventListeners();
+        drawChart();
+      });
+
+      function setupEventListeners() {
+        // Scenario buttons
+        document.querySelectorAll(".scenario-btn").forEach((btn) => {
+          btn.addEventListener("click", function () {
+            document
+              .querySelectorAll(".scenario-btn")
+              .forEach((b) => b.classList.remove("active"));
+            this.classList.add("active");
+            currentScenario = this.dataset.scenario;
+            updateExpressions();
+          });
+        });
+
+        // Input changes
+        ["costPerCake", "pricePerCake", "fixedCost", "numCakes"].forEach(
+          (id) => {
+            document
+              .getElementById(id)
+              .addEventListener("input", updateExpressions);
+          }
+        );
+      }
+
+      function updateExpressions() {
+        const c = parseFloat(document.getElementById("costPerCake").value) || 0;
+        const p =
+          parseFloat(document.getElementById("pricePerCake").value) || 0;
+        const fixed =
+          parseFloat(document.getElementById("fixedCost").value) || 0;
+        const x = parseInt(document.getElementById("numCakes").value) || 0;
+
+        const scenario = scenarios[currentScenario];
+        const adjustedPrice = scenario.modifyPrice(p, x);
+        const adjustedCost = scenario.modifyCost(c, x);
+        const totalFixed = fixed + scenario.extraFees;
+
+        // Generate expressions
+        const costExpr =
+          totalFixed > 0
+            ? `${adjustedCost.toFixed(2)}x + ${totalFixed}`
+            : `${adjustedCost.toFixed(2)}x`;
+        const revenueExpr = `${adjustedPrice.toFixed(2)}x`;
+        const profitExpr = `${adjustedPrice.toFixed(2)}x - (${costExpr}) = ${(
+          adjustedPrice - adjustedCost
+        ).toFixed(2)}x - ${totalFixed}`;
+
+        // Update displays
+        document.getElementById(
+          "costDisplay"
+        ).innerHTML = `<strong>Cost C(x) = ${costExpr}</strong>`;
+        document.getElementById("costDisplay").classList.add("has-content");
+
+        document.getElementById(
+          "revenueDisplay"
+        ).innerHTML = `<strong>Revenue R(x) = ${revenueExpr}</strong>`;
+        document.getElementById("revenueDisplay").classList.add("has-content");
+
+        document.getElementById(
+          "profitDisplay"
+        ).innerHTML = `<strong>Profit P(x) = ${(
+          adjustedPrice - adjustedCost
+        ).toFixed(2)}x - ${totalFixed}</strong>`;
+        document.getElementById("profitDisplay").classList.add("has-content");
+
+        // Calculate specific values
+        const totalCost = adjustedCost * x + totalFixed;
+        const totalRevenue = adjustedPrice * x;
+        const netProfit = totalRevenue - totalCost;
+        const breakEven = totalFixed / (adjustedPrice - adjustedCost);
+
+        document.getElementById(
+          "totalCost"
+        ).textContent = `$${totalCost.toFixed(2)}`;
+        document.getElementById(
+          "totalRevenue"
+        ).textContent = `$${totalRevenue.toFixed(2)}`;
+        document.getElementById(
+          "netProfit"
+        ).textContent = `$${netProfit.toFixed(2)}`;
+        document.getElementById("netProfit").style.color =
+          netProfit >= 0 ? "#27ae60" : "#e74c3c";
+        document.getElementById("breakEven").textContent = `${Math.ceil(
+          breakEven
+        )} cakes`;
+
+        drawChart();
+      }
+
+      function checkExpressions() {
+        const c = parseFloat(document.getElementById("costPerCake").value) || 0;
+        const p =
+          parseFloat(document.getElementById("pricePerCake").value) || 0;
+        const fixed =
+          parseFloat(document.getElementById("fixedCost").value) || 0;
+
+        const scenario = scenarios[currentScenario];
+        const adjustedPrice = scenario.modifyPrice(p);
+        const adjustedCost = scenario.modifyCost(c);
+        const totalFixed = fixed + scenario.extraFees;
+
+        const studentCost = document
+          .getElementById("costExpression")
+          .value.toLowerCase()
+          .replace(/\s/g, "");
+        const studentRevenue = document
+          .getElementById("revenueExpression")
+          .value.toLowerCase()
+          .replace(/\s/g, "");
+        const studentProfit = document
+          .getElementById("profitExpression")
+          .value.toLowerCase()
+          .replace(/\s/g, "");
+
+        const correctCost = `${adjustedCost}x+${totalFixed}`.replace(".00", "");
+        const correctRevenue = `${adjustedPrice}x`.replace(".00", "");
+        const correctProfit = `${(adjustedPrice - adjustedCost).toFixed(
+          2
+        )}x-${totalFixed}`.replace(".00", "");
+
+        let feedback = "";
+        let allCorrect = true;
+
+        if (
+          !studentCost.includes(correctCost.replace(/\+/g, "")) &&
+          !studentCost.includes(`${adjustedCost}*x+${totalFixed}`)
+        ) {
+          feedback += `❌ Cost expression needs work. Expected: ${correctCost}<br>`;
+          allCorrect = false;
+        } else {
+          feedback += `✅ Cost expression correct!<br>`;
+        }
+
+        if (
+          !studentRevenue.includes(correctRevenue.replace(/\./g, "")) &&
+          !studentRevenue.includes(`${adjustedPrice}*x`)
+        ) {
+          feedback += `❌ Revenue expression needs work. Expected: ${correctRevenue}<br>`;
+          allCorrect = false;
+        } else {
+          feedback += `✅ Revenue expression correct!<br>`;
+        }
+
+        if (allCorrect) {
+          feedback += `🎉 <strong>Excellent work! You've mastered algebraic expressions in context!</strong>`;
+          document.getElementById("feedback").className = "feedback correct";
+        } else {
+          feedback += `💡 <strong>Keep trying! Think about what each variable represents.</strong>`;
+          document.getElementById("feedback").className = "feedback incorrect";
+        }
+
+        document.getElementById("feedback").innerHTML = feedback;
+        document.getElementById("feedback").style.display = "block";
+      }
+
+      function checkCompetitorChallenge() {
+        const p =
+          parseFloat(document.getElementById("pricePerCake").value) || 0;
+        const c = parseFloat(document.getElementById("costPerCake").value) || 0;
+        const fixed =
+          parseFloat(document.getElementById("fixedCost").value) || 0;
+
+        const newPrice = p * 0.85; // 15% reduction
+        const newBreakEven = fixed / (newPrice - c);
+        const studentAnswer = parseFloat(
+          document.getElementById("competitorBreakeven").value
+        );
+
+        let feedback = "";
+        if (Math.abs(studentAnswer - Math.ceil(newBreakEven)) <= 1) {
+          feedback = `🎯 <strong>Excellent analysis!</strong> The new break-even point is approximately ${Math.ceil(
+            newBreakEven
+          )} cakes. You correctly calculated the impact of competitive pricing on profitability.`;
+          document.getElementById("competitorFeedback").className =
+            "feedback correct";
+        } else {
+          feedback = `🤔 <strong>Let me help:</strong> With a 15% price reduction, your new selling price would be $${newPrice.toFixed(
+            2
+          )}. The break-even point is ${Math.ceil(
+            newBreakEven
+          )} cakes. Try: Fixed costs ÷ (New price - Cost per cake).`;
+          document.getElementById("competitorFeedback").className =
+            "feedback incorrect";
+        }
+
+        document.getElementById("competitorFeedback").innerHTML = feedback;
+        document.getElementById("competitorFeedback").style.display = "block";
+      }
+
+      function drawChart() {
+        const canvas = document.getElementById("profitChart");
+        const ctx = canvas.getContext("2d");
+
+        const c = parseFloat(document.getElementById("costPerCake").value) || 0;
+        const p =
+          parseFloat(document.getElementById("pricePerCake").value) || 0;
+        const fixed =
+          parseFloat(document.getElementById("fixedCost").value) || 0;
+
+        const scenario = scenarios[currentScenario];
+        const adjustedPrice = scenario.modifyPrice(p);
+        const adjustedCost = scenario.modifyCost(c);
+        const totalFixed = fixed + scenario.extraFees;
+
+        // Clear canvas
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+        // Set up coordinate system
+        const maxCakes = 50;
+        const maxProfit =
+          (adjustedPrice - adjustedCost) * maxCakes - totalFixed;
+        const minProfit = -totalFixed;
+
+        const scaleX = canvas.width / maxCakes;
+        const scaleY = canvas.height / (maxProfit - minProfit);
+
+        // Draw axes
+        ctx.strokeStyle = "#333";
+        ctx.lineWidth = 2;
+        ctx.beginPath();
+        ctx.moveTo(0, canvas.height + minProfit * scaleY);
+        ctx.lineTo(canvas.width, canvas.height + minProfit * scaleY);
+        ctx.moveTo(0, 0);
+        ctx.lineTo(0, canvas.height);
+        ctx.stroke();
+
+        // Draw profit line
+        ctx.strokeStyle = "#3498db";
+        ctx.lineWidth = 3;
+        ctx.beginPath();
+
+        for (let x = 0; x <= maxCakes; x++) {
+          const profit = (adjustedPrice - adjustedCost) * x - totalFixed;
+          const canvasX = x * scaleX;
+          const canvasY = canvas.height - (profit - minProfit) * scaleY;
+
+          if (x === 0) {
+            ctx.moveTo(canvasX, canvasY);
+          } else {
+            ctx.lineTo(canvasX, canvasY);
+          }
+        }
+        ctx.stroke();
+
+        // Mark break-even point
+        const breakEven = totalFixed / (adjustedPrice - adjustedCost);
+        if (breakEven > 0 && breakEven <= maxCakes) {
+          ctx.fillStyle = "#e74c3c";
+          ctx.beginPath();
+          ctx.arc(
+            breakEven * scaleX,
+            canvas.height + minProfit * scaleY,
+            6,
+            0,
+            2 * Math.PI
+          );
+          ctx.fill();
+
+          ctx.fillStyle = "#333";
+          ctx.font = "12px Arial";
+          ctx.fillText(
+            `Break-even: ${Math.ceil(breakEven)}`,
+            breakEven * scaleX + 10,
+            canvas.height + minProfit * scaleY - 10
+          );
+        }
+
+        // Add labels
+        ctx.fillStyle = "#333";
+        ctx.font = "14px Arial";
+        ctx.fillText(
+          "Number of Cakes →",
+          canvas.width - 120,
+          canvas.height - 10
+        );
+        ctx.save();
+        ctx.translate(15, canvas.height / 2);
+        ctx.rotate(-Math.PI / 2);
+        ctx.fillText("← Profit ($)", 0, 0);
+        ctx.restore();
+      }
+    </script>
+  </body>
+</html>
