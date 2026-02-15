@@ -15,7 +15,7 @@
   },
   {
     "date": "2026-02-16",
-    "title": "Lunch 1",
+    "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
     "colour": "mistyrose"
@@ -953,3 +953,4 @@
   }
 
 ]
+
