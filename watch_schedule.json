@@ -1,0 +1,954 @@
+[
+  {
+    "date": "2026-02-16",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple"
+  },
+  {
+    "date": "2026-02-16",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-02-16",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-02-16",
+    "title": "P6 Y10S3 Maths",
+    "start": "14:00",
+    "end": "14:50",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-02-17",
+    "title": "P1 Y10S3 Maths",
+    "start": "08:20",
+    "end": "09:10",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-02-17",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple"
+  },
+  {
+    "date": "2026-02-17",
+    "title": "P4 Y12S0 Maths",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-02-17",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-02-17",
+    "title": "P5 Y8 HPL",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "MediumSeaGreen"
+  },
+  {
+    "date": "2026-02-18",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple"
+  },
+  {
+    "date": "2026-02-18",
+    "title": "P4 Y9 HPL",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "Green"
+  },
+  {
+    "date": "2026-02-18",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-02-18",
+    "title": "P5 Y12S0 Maths",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-02-19",
+    "title": "P2 Y10S3 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-02-19",
+    "title": "House Group",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "lavender"
+  },
+  {
+    "date": "2026-02-19",
+    "title": "P3 Y10 HPL",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "YellowGreen"
+  },
+  {
+    "date": "2026-02-19",
+    "title": "P4 Y7 HPL",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "PaleGreen"
+  },
+  {
+    "date": "2026-02-19",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-02-20",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-02-20",
+    "title": "Recess",
+    "start": "10:00",
+    "end": "10:30",
+    "colour": "gold"
+  },
+  {
+    "date": "2026-02-20",
+    "title": "P3 Y10S3 Maths",
+    "start": "10:30",
+    "end": "11:20",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-02-20",
+    "title": "House Meeting",
+    "start": "12:10",
+    "end": "12:30",
+    "colour": "lavender"
+  },
+  {
+    "date": "2026-02-20",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-02-23",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple"
+  },
+  {
+    "date": "2026-02-23",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-02-23",
+    "title": "P4 Y10S3 Maths",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-02-23",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-02-24",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-02-24",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple"
+  },
+  {
+    "date": "2026-02-24",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-02-24",
+    "title": "P5 Y10S3 Maths",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-02-25",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple"
+  },
+  {
+    "date": "2026-02-25",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-02-25",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-02-25",
+    "title": "P6 Y10S3 Maths",
+    "start": "14:00",
+    "end": "14:50",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-02-26",
+    "title": "P1 Y10S3 Maths",
+    "start": "08:20",
+    "end": "09:10",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-02-26",
+    "title": "Assembly",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "plum"
+  },
+  {
+    "date": "2026-02-26",
+    "title": "P4 Y12S0 Maths",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-02-26",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-02-26",
+    "title": "P5 Y8 HPL",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "MediumSeaGreen"
+  },
+  {
+    "date": "2026-02-27",
+    "title": "Recess",
+    "start": "10:00",
+    "end": "10:30",
+    "colour": "gold"
+  },
+  {
+    "date": "2026-02-27",
+    "title": "P4 Y9 HPL",
+    "start": "11:20",
+    "end": "12:10",
+    "colour": "Green"
+  },
+  {
+    "date": "2026-02-27",
+    "title": "House Meeting",
+    "start": "12:10",
+    "end": "12:30",
+    "colour": "lavender"
+  },
+  {
+    "date": "2026-02-27",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-02-27",
+    "title": "P5 Y12S0 Maths",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-02-28",
+    "title": "Mardi Gras End Area",
+    "start": "15:00",
+    "end": "23:00",
+    "colour": "hotpink"
+  },
+  {
+    "date": "2026-03-02",
+    "title": "P2 Y10S3 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-03-02",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple"
+  },
+  {
+    "date": "2026-03-02",
+    "title": "P3 Y10 HPL",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "YellowGreen"
+  },
+  {
+    "date": "2026-03-02",
+    "title": "P4 Y7 HPL",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "PaleGreen"
+  },
+  {
+    "date": "2026-03-02",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-03-03",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-03-03",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple"
+  },
+  {
+    "date": "2026-03-03",
+    "title": "P3 Y10S3 Maths",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-03-03",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-03-04",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple"
+  },
+  {
+    "date": "2026-03-04",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-03-04",
+    "title": "P4 Y10S3 Maths",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-03-04",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-03-05",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-03-05",
+    "title": "House Group",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "lavender"
+  },
+  {
+    "date": "2026-03-05",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-03-05",
+    "title": "P5 Y10S3 Maths",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-03-06",
+    "title": "Recess",
+    "start": "10:00",
+    "end": "10:30",
+    "colour": "gold"
+  },
+  {
+    "date": "2026-03-06",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:30",
+    "end": "11:20",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-03-06",
+    "title": "House Meeting",
+    "start": "12:10",
+    "end": "12:30",
+    "colour": "lavender"
+  },
+  {
+    "date": "2026-03-06",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-03-06",
+    "title": "P6 Y10S3 Maths",
+    "start": "14:00",
+    "end": "14:50",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-03-09",
+    "title": "P1 Y10S3 Maths",
+    "start": "08:20",
+    "end": "09:10",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-03-09",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple"
+  },
+  {
+    "date": "2026-03-09",
+    "title": "P4 Y12S0 Maths",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-03-09",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-03-09",
+    "title": "P5 Y8 HPL",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "MediumSeaGreen"
+  },
+  {
+    "date": "2026-03-10",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple"
+  },
+  {
+    "date": "2026-03-10",
+    "title": "P4 Y9 HPL",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "Green"
+  },
+  {
+    "date": "2026-03-10",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-03-10",
+    "title": "P5 Y12S0 Maths",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-03-11",
+    "title": "P2 Y10S3 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-03-11",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple"
+  },
+  {
+    "date": "2026-03-11",
+    "title": "P3 Y10 HPL",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "YellowGreen"
+  },
+  {
+    "date": "2026-03-11",
+    "title": "P4 Y7 HPL",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "PaleGreen"
+  },
+  {
+    "date": "2026-03-11",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-03-12",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-03-12",
+    "title": "Assembly",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "plum"
+  },
+  {
+    "date": "2026-03-12",
+    "title": "P3 Y10S3 Maths",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-03-12",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-03-13",
+    "title": "Recess",
+    "start": "10:00",
+    "end": "10:30",
+    "colour": "gold"
+  },
+  {
+    "date": "2026-03-13",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:30",
+    "end": "11:20",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-03-13",
+    "title": "P4 Y10S3 Maths",
+    "start": "11:20",
+    "end": "12:10",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-03-13",
+    "title": "House Meeting",
+    "start": "12:10",
+    "end": "12:30",
+    "colour": "lavender"
+  },
+  {
+    "date": "2026-03-13",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-03-16",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-03-16",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple"
+  },
+  {
+    "date": "2026-03-16",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-03-16",
+    "title": "P5 Y10S3 Maths",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-03-17",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple"
+  },
+  {
+    "date": "2026-03-17",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-03-17",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-03-17",
+    "title": "P6 Y10S3 Maths",
+    "start": "14:00",
+    "end": "14:50",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-03-18",
+    "title": "P1 Y10S3 Maths",
+    "start": "08:20",
+    "end": "09:10",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-03-18",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple"
+  },
+  {
+    "date": "2026-03-18",
+    "title": "P4 Y12S0 Maths",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-03-18",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-03-18",
+    "title": "P5 Y8 HPL",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "MediumSeaGreen"
+  },
+  {
+    "date": "2026-03-19",
+    "title": "House Group",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "lavender"
+  },
+  {
+    "date": "2026-03-19",
+    "title": "P4 Y9 HPL",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "Green"
+  },
+  {
+    "date": "2026-03-19",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-03-19",
+    "title": "P5 Y12S0 Maths",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-03-20",
+    "title": "P2 Y10S3 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-03-20",
+    "title": "Recess",
+    "start": "10:00",
+    "end": "10:30",
+    "colour": "gold"
+  },
+  {
+    "date": "2026-03-20",
+    "title": "P3 Y10 HPL",
+    "start": "10:30",
+    "end": "11:20",
+    "colour": "YellowGreen"
+  },
+  {
+    "date": "2026-03-20",
+    "title": "P4 Y7 HPL",
+    "start": "11:20",
+    "end": "12:10",
+    "colour": "PaleGreen"
+  },
+  {
+    "date": "2026-03-20",
+    "title": "House Meeting",
+    "start": "12:10",
+    "end": "12:30",
+    "colour": "lavender"
+  },
+  {
+    "date": "2026-03-20",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-03-23",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-03-23",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple"
+  },
+  {
+    "date": "2026-03-23",
+    "title": "P3 Y10S3 Maths",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-03-23",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "P4 Y10S3 Maths",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "P5 Y10S3 Maths",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-03-26",
+    "title": "Assembly",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "plum"
+  },
+  {
+    "date": "2026-03-26",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-03-26",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-03-26",
+    "title": "P6 Y10S3 Maths",
+    "start": "14:00",
+    "end": "14:50",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "P1 Y10S3 Maths",
+    "start": "08:20",
+    "end": "09:10",
+    "colour": "dodgerblue"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "Recess",
+    "start": "10:00",
+    "end": "10:30",
+    "colour": "gold"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "P4 Y12S0 Maths",
+    "start": "11:20",
+    "end": "12:10",
+    "colour": "lightsteelblue"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "House Meeting",
+    "start": "12:10",
+    "end": "12:30",
+    "colour": "lavender"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "mistyrose"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "P5 Y8 HPL",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "MediumSeaGreen"
+  }
+]
