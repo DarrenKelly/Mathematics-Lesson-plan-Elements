@@ -18,7 +18,7 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-02-16",
@@ -53,14 +53,14 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-02-17",
     "title": "P5 Y8 HPL",
     "start": "13:10",
     "end": "14:00",
-    "colour": "MediumSeaGreen"
+    "colour": "mediumseagreen"
   },
   {
     "date": "2026-02-18",
@@ -74,14 +74,14 @@
     "title": "P4 Y9 HPL",
     "start": "11:40",
     "end": "12:30",
-    "colour": "Green"
+    "colour": "green"
   },
   {
     "date": "2026-02-18",
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-02-18",
@@ -102,28 +102,28 @@
     "title": "House Group",
     "start": "10:00",
     "end": "10:50",
-    "colour": "lavender"
+    "colour": "orchid"
   },
   {
     "date": "2026-02-19",
     "title": "P3 Y10 HPL",
     "start": "10:50",
     "end": "11:40",
-    "colour": "YellowGreen"
+    "colour": "yellowgreen"
   },
   {
     "date": "2026-02-19",
     "title": "P4 Y7 HPL",
     "start": "11:40",
     "end": "12:30",
-    "colour": "PaleGreen"
+    "colour": "palegreen"
   },
   {
     "date": "2026-02-19",
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-02-20",
@@ -151,14 +151,14 @@
     "title": "House Meeting",
     "start": "12:10",
     "end": "12:30",
-    "colour": "lavender"
+    "colour": "orchid"
   },
   {
     "date": "2026-02-20",
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-02-23",
@@ -186,7 +186,7 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-02-24",
@@ -207,7 +207,7 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-02-24",
@@ -235,7 +235,7 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-02-25",
@@ -270,14 +270,14 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-02-26",
     "title": "P5 Y8 HPL",
     "start": "13:10",
     "end": "14:00",
-    "colour": "MediumSeaGreen"
+    "colour": "mediumseagreen"
   },
   {
     "date": "2026-02-27",
@@ -291,21 +291,21 @@
     "title": "P4 Y9 HPL",
     "start": "11:20",
     "end": "12:10",
-    "colour": "Green"
+    "colour": "green"
   },
   {
     "date": "2026-02-27",
     "title": "House Meeting",
     "start": "12:10",
     "end": "12:30",
-    "colour": "lavender"
+    "colour": "orchid"
   },
   {
     "date": "2026-02-27",
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-02-27",
@@ -340,21 +340,21 @@
     "title": "P3 Y10 HPL",
     "start": "10:50",
     "end": "11:40",
-    "colour": "YellowGreen"
+    "colour": "yellowgreen"
   },
   {
     "date": "2026-03-02",
     "title": "P4 Y7 HPL",
     "start": "11:40",
     "end": "12:30",
-    "colour": "PaleGreen"
+    "colour": "palegreen"
   },
   {
     "date": "2026-03-02",
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-03-03",
@@ -382,7 +382,7 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-03-04",
@@ -410,7 +410,7 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-03-05",
@@ -424,14 +424,14 @@
     "title": "House Group",
     "start": "10:00",
     "end": "10:50",
-    "colour": "lavender"
+    "colour": "orchid"
   },
   {
     "date": "2026-03-05",
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-03-05",
@@ -459,14 +459,14 @@
     "title": "House Meeting",
     "start": "12:10",
     "end": "12:30",
-    "colour": "lavender"
+    "colour": "orchid"
   },
   {
     "date": "2026-03-06",
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-03-06",
@@ -501,14 +501,14 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-03-09",
     "title": "P5 Y8 HPL",
     "start": "13:10",
     "end": "14:00",
-    "colour": "MediumSeaGreen"
+    "colour": "mediumseagreen"
   },
   {
     "date": "2026-03-10",
@@ -522,14 +522,14 @@
     "title": "P4 Y9 HPL",
     "start": "11:40",
     "end": "12:30",
-    "colour": "Green"
+    "colour": "green"
   },
   {
     "date": "2026-03-10",
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-03-10",
@@ -557,21 +557,21 @@
     "title": "P3 Y10 HPL",
     "start": "10:50",
     "end": "11:40",
-    "colour": "YellowGreen"
+    "colour": "yellowgreen"
   },
   {
     "date": "2026-03-11",
     "title": "P4 Y7 HPL",
     "start": "11:40",
     "end": "12:30",
-    "colour": "PaleGreen"
+    "colour": "palegreen"
   },
   {
     "date": "2026-03-11",
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-03-12",
@@ -599,7 +599,7 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-03-13",
@@ -627,14 +627,14 @@
     "title": "House Meeting",
     "start": "12:10",
     "end": "12:30",
-    "colour": "lavender"
+    "colour": "orchid"
   },
   {
     "date": "2026-03-13",
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-03-16",
@@ -655,7 +655,7 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-03-16",
@@ -683,7 +683,7 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-03-17",
@@ -718,35 +718,35 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-03-18",
     "title": "P5 Y8 HPL",
     "start": "13:10",
     "end": "14:00",
-    "colour": "MediumSeaGreen"
+    "colour": "mediumseagreen"
   },
   {
     "date": "2026-03-19",
     "title": "House Group",
     "start": "10:00",
     "end": "10:50",
-    "colour": "lavender"
+    "colour": "orchid"
   },
   {
     "date": "2026-03-19",
     "title": "P4 Y9 HPL",
     "start": "11:40",
     "end": "12:30",
-    "colour": "Green"
+    "colour": "green"
   },
   {
     "date": "2026-03-19",
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-03-19",
@@ -774,28 +774,28 @@
     "title": "P3 Y10 HPL",
     "start": "10:30",
     "end": "11:20",
-    "colour": "YellowGreen"
+    "colour": "yellowgreen"
   },
   {
     "date": "2026-03-20",
     "title": "P4 Y7 HPL",
     "start": "11:20",
     "end": "12:10",
-    "colour": "PaleGreen"
+    "colour": "palegreen"
   },
   {
     "date": "2026-03-20",
     "title": "House Meeting",
     "start": "12:10",
     "end": "12:30",
-    "colour": "lavender"
+    "colour": "orchid"
   },
   {
     "date": "2026-03-20",
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-03-23",
@@ -823,7 +823,7 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-03-24",
@@ -851,7 +851,7 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-03-25",
@@ -872,7 +872,7 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-03-25",
@@ -900,7 +900,7 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-03-26",
@@ -935,22 +935,20 @@
     "title": "House Meeting",
     "start": "12:10",
     "end": "12:30",
-    "colour": "lavender"
+    "colour": "orchid"
   },
   {
     "date": "2026-03-27",
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "mistyrose"
+    "colour": "lightyellow"
   },
   {
     "date": "2026-03-27",
     "title": "P5 Y8 HPL",
     "start": "13:10",
     "end": "14:00",
-    "colour": "MediumSeaGreen"
+    "colour": "mediumseagreen"
   }
-
 ]
-
