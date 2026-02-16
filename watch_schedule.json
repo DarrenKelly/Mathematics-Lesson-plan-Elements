@@ -18,18 +18,18 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
   },
   {
     "date": "2026-02-16",
-    "title": "P6 Y10S3 Maths",
+    "title": "P6 Y10S3 Maths 10.2.7",
     "start": "14:00",
     "end": "14:50",
     "colour": "dodgerblue"
   },
   {
     "date": "2026-02-17",
-    "title": "P1 Y10S3 Maths",
+    "title": "P1 Y10S3 Maths 10.2.7",
     "start": "08:20",
     "end": "09:10",
     "colour": "dodgerblue"
@@ -43,6 +43,13 @@
   },
   {
     "date": "2026-02-17",
+    "title": "P3 Y9S2 Maths 13.2.2",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "RoyalBlue"
+  },
+  {
+    "date": "2026-02-17",
     "title": "P4 Y12S0 Maths",
     "start": "11:40",
     "end": "12:30",
@@ -53,7 +60,7 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
   },
   {
     "date": "2026-02-17",
@@ -71,17 +78,17 @@
   },
   {
     "date": "2026-02-18",
-    "title": "P4 Y9 HPL",
+    "title": "P4 Y9S2 Maths 13.2.2",
     "start": "11:40",
     "end": "12:30",
-    "colour": "green"
+    "colour": "RoyalBlue"
   },
   {
     "date": "2026-02-18",
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
   },
   {
     "date": "2026-02-18",
@@ -92,7 +99,7 @@
   },
   {
     "date": "2026-02-19",
-    "title": "P2 Y10S3 Maths",
+    "title": "P2 Y10S3 Maths 10.2.7",
     "start": "09:10",
     "end": "10:00",
     "colour": "dodgerblue"
@@ -123,7 +130,14 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
+  },
+  {
+    "date": "2026-02-19",
+    "title": "P5 Y9S2 Maths 13.2.2",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "RoyalBlue"
   },
   {
     "date": "2026-02-20",
@@ -141,7 +155,7 @@
   },
   {
     "date": "2026-02-20",
-    "title": "P3 Y10S3 Maths",
+    "title": "P3 Y10S3 Maths 10.2.7",
     "start": "10:30",
     "end": "11:20",
     "colour": "dodgerblue"
@@ -158,7 +172,21 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
+  },
+  {
+    "date": "2026-02-20",
+    "title": "P6 Y9S2 Maths 13.2.2",
+    "start": "14:00",
+    "end": "14:50",
+    "colour": "RoyalBlue"
+  },
+  {
+    "date": "2026-02-23",
+    "title": "P1 Y9S2 Maths 13.2.2",
+    "start": "08:20",
+    "end": "09:10",
+    "colour": "RoyalBlue"
   },
   {
     "date": "2026-02-23",
@@ -176,7 +204,7 @@
   },
   {
     "date": "2026-02-23",
-    "title": "P4 Y10S3 Maths",
+    "title": "P4 Y10S3 Maths 10.2.7",
     "start": "11:40",
     "end": "12:30",
     "colour": "dodgerblue"
@@ -186,14 +214,14 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
   },
   {
     "date": "2026-02-24",
-    "title": "P2 Y12S0 Maths",
+    "title": "P2 Y9S2 Maths 13.2.2",
     "start": "09:10",
     "end": "10:00",
-    "colour": "lightsteelblue"
+    "colour": "RoyalBlue"
   },
   {
     "date": "2026-02-24",
@@ -207,11 +235,11 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
   },
   {
     "date": "2026-02-24",
-    "title": "P5 Y10S3 Maths",
+    "title": "P5 Y10S3 Maths 10.2.7",
     "start": "13:10",
     "end": "14:00",
     "colour": "dodgerblue"
@@ -235,18 +263,18 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
   },
   {
     "date": "2026-02-25",
-    "title": "P6 Y10S3 Maths",
+    "title": "P6 Y10S3 Maths 10.2.7",
     "start": "14:00",
     "end": "14:50",
     "colour": "dodgerblue"
   },
   {
     "date": "2026-02-26",
-    "title": "P1 Y10S3 Maths",
+    "title": "P1 Y10S3 Maths 10.2.7",
     "start": "08:20",
     "end": "09:10",
     "colour": "dodgerblue"
@@ -260,6 +288,13 @@
   },
   {
     "date": "2026-02-26",
+    "title": "P3 Y9S2 Maths 13.2.2",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "RoyalBlue"
+  },
+  {
+    "date": "2026-02-26",
     "title": "P4 Y12S0 Maths",
     "start": "11:40",
     "end": "12:30",
@@ -270,7 +305,7 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
   },
   {
     "date": "2026-02-26",
@@ -288,10 +323,10 @@
   },
   {
     "date": "2026-02-27",
-    "title": "P4 Y9 HPL",
+    "title": "P4 Y9S2 Maths 13.2.2",
     "start": "11:20",
     "end": "12:10",
-    "colour": "green"
+    "colour": "RoyalBlue"
   },
   {
     "date": "2026-02-27",
@@ -305,7 +340,7 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
   },
   {
     "date": "2026-02-27",
@@ -323,7 +358,7 @@
   },
   {
     "date": "2026-03-02",
-    "title": "P2 Y10S3 Maths",
+    "title": "P2 Y10S3 Maths 10.2.7",
     "start": "09:10",
     "end": "10:00",
     "colour": "dodgerblue"
@@ -354,7 +389,14 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
+  },
+  {
+    "date": "2026-03-02",
+    "title": "P5 Y9S2 Maths 13.2.2",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "RoyalBlue"
   },
   {
     "date": "2026-03-03",
@@ -372,7 +414,7 @@
   },
   {
     "date": "2026-03-03",
-    "title": "P3 Y10S3 Maths",
+    "title": "P3 Y10S3 Maths 10.2.7",
     "start": "10:50",
     "end": "11:40",
     "colour": "dodgerblue"
@@ -382,7 +424,21 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
+  },
+  {
+    "date": "2026-03-03",
+    "title": "P6 Y9S2 Maths 13.2.2",
+    "start": "14:00",
+    "end": "14:50",
+    "colour": "RoyalBlue"
+  },
+  {
+    "date": "2026-03-04",
+    "title": "P1 Y9S2 Maths 13.2.2",
+    "start": "08:20",
+    "end": "09:10",
+    "colour": "RoyalBlue"
   },
   {
     "date": "2026-03-04",
@@ -400,7 +456,7 @@
   },
   {
     "date": "2026-03-04",
-    "title": "P4 Y10S3 Maths",
+    "title": "P4 Y10S3 Maths 10.2.7",
     "start": "11:40",
     "end": "12:30",
     "colour": "dodgerblue"
@@ -410,14 +466,14 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
   },
   {
     "date": "2026-03-05",
-    "title": "P2 Y12S0 Maths",
+    "title": "P2 Y9S2 Maths 13.2.2",
     "start": "09:10",
     "end": "10:00",
-    "colour": "lightsteelblue"
+    "colour": "RoyalBlue"
   },
   {
     "date": "2026-03-05",
@@ -431,11 +487,11 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
   },
   {
     "date": "2026-03-05",
-    "title": "P5 Y10S3 Maths",
+    "title": "P5 Y10S3 Maths 10.2.7",
     "start": "13:10",
     "end": "14:00",
     "colour": "dodgerblue"
@@ -466,18 +522,18 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
   },
   {
     "date": "2026-03-06",
-    "title": "P6 Y10S3 Maths",
+    "title": "P6 Y10S3 Maths 10.2.7",
     "start": "14:00",
     "end": "14:50",
     "colour": "dodgerblue"
   },
   {
     "date": "2026-03-09",
-    "title": "P1 Y10S3 Maths",
+    "title": "P1 Y10S3 Maths 10.2.7",
     "start": "08:20",
     "end": "09:10",
     "colour": "dodgerblue"
@@ -491,6 +547,13 @@
   },
   {
     "date": "2026-03-09",
+    "title": "P3 Y9S2 Maths 13.2.2",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "RoyalBlue"
+  },
+  {
+    "date": "2026-03-09",
     "title": "P4 Y12S0 Maths",
     "start": "11:40",
     "end": "12:30",
@@ -501,7 +564,7 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
   },
   {
     "date": "2026-03-09",
@@ -519,17 +582,17 @@
   },
   {
     "date": "2026-03-10",
-    "title": "P4 Y9 HPL",
+    "title": "P4 Y9S2 Maths 13.2.2",
     "start": "11:40",
     "end": "12:30",
-    "colour": "green"
+    "colour": "RoyalBlue"
   },
   {
     "date": "2026-03-10",
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
   },
   {
     "date": "2026-03-10",
@@ -540,7 +603,7 @@
   },
   {
     "date": "2026-03-11",
-    "title": "P2 Y10S3 Maths",
+    "title": "P2 Y10S3 Maths 10.2.7",
     "start": "09:10",
     "end": "10:00",
     "colour": "dodgerblue"
@@ -571,7 +634,14 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
+  },
+  {
+    "date": "2026-03-11",
+    "title": "P5 Y9S2 Maths 13.2.2",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "RoyalBlue"
   },
   {
     "date": "2026-03-12",
@@ -589,7 +659,7 @@
   },
   {
     "date": "2026-03-12",
-    "title": "P3 Y10S3 Maths",
+    "title": "P3 Y10S3 Maths 10.2.7",
     "start": "10:50",
     "end": "11:40",
     "colour": "dodgerblue"
@@ -599,7 +669,21 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
+  },
+  {
+    "date": "2026-03-12",
+    "title": "P6 Y9S2 Maths 13.2.2",
+    "start": "14:00",
+    "end": "14:50",
+    "colour": "RoyalBlue"
+  },
+  {
+    "date": "2026-03-13",
+    "title": "P1 Y9S2 Maths 13.2.2",
+    "start": "08:20",
+    "end": "09:10",
+    "colour": "RoyalBlue"
   },
   {
     "date": "2026-03-13",
@@ -617,7 +701,7 @@
   },
   {
     "date": "2026-03-13",
-    "title": "P4 Y10S3 Maths",
+    "title": "P4 Y10S3 Maths 10.2.7",
     "start": "11:20",
     "end": "12:10",
     "colour": "dodgerblue"
@@ -634,14 +718,14 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
   },
   {
     "date": "2026-03-16",
-    "title": "P2 Y12S0 Maths",
+    "title": "P2 Y9S2 Maths 13.2.2",
     "start": "09:10",
     "end": "10:00",
-    "colour": "lightsteelblue"
+    "colour": "RoyalBlue"
   },
   {
     "date": "2026-03-16",
@@ -655,11 +739,11 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
   },
   {
     "date": "2026-03-16",
-    "title": "P5 Y10S3 Maths",
+    "title": "P5 Y10S3 Maths 10.2.7",
     "start": "13:10",
     "end": "14:00",
     "colour": "dodgerblue"
@@ -683,18 +767,18 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
   },
   {
     "date": "2026-03-17",
-    "title": "P6 Y10S3 Maths",
+    "title": "P6 Y10S3 Maths 10.2.7",
     "start": "14:00",
     "end": "14:50",
     "colour": "dodgerblue"
   },
   {
     "date": "2026-03-18",
-    "title": "P1 Y10S3 Maths",
+    "title": "P1 Y10S3 Maths 10.2.7",
     "start": "08:20",
     "end": "09:10",
     "colour": "dodgerblue"
@@ -708,6 +792,13 @@
   },
   {
     "date": "2026-03-18",
+    "title": "P3 Y9S2 Maths 13.2.2",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "RoyalBlue"
+  },
+  {
+    "date": "2026-03-18",
     "title": "P4 Y12S0 Maths",
     "start": "11:40",
     "end": "12:30",
@@ -718,7 +809,7 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
   },
   {
     "date": "2026-03-18",
@@ -736,17 +827,17 @@
   },
   {
     "date": "2026-03-19",
-    "title": "P4 Y9 HPL",
+    "title": "P4 Y9S2 Maths 13.2.2",
     "start": "11:40",
     "end": "12:30",
-    "colour": "green"
+    "colour": "RoyalBlue"
   },
   {
     "date": "2026-03-19",
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
   },
   {
     "date": "2026-03-19",
@@ -757,7 +848,7 @@
   },
   {
     "date": "2026-03-20",
-    "title": "P2 Y10S3 Maths",
+    "title": "P2 Y10S3 Maths 10.2.7",
     "start": "09:10",
     "end": "10:00",
     "colour": "dodgerblue"
@@ -795,7 +886,14 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
+  },
+  {
+    "date": "2026-03-20",
+    "title": "P5 Y9S2 Maths 13.2.2",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "RoyalBlue"
   },
   {
     "date": "2026-03-23",
@@ -813,7 +911,7 @@
   },
   {
     "date": "2026-03-23",
-    "title": "P3 Y10S3 Maths",
+    "title": "P3 Y10S3 Maths 10.2.7",
     "start": "10:50",
     "end": "11:40",
     "colour": "dodgerblue"
@@ -823,7 +921,21 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
+  },
+  {
+    "date": "2026-03-23",
+    "title": "P6 Y9S2 Maths 13.2.2",
+    "start": "14:00",
+    "end": "14:50",
+    "colour": "RoyalBlue"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "P1 Y9S2 Maths 13.2.2",
+    "start": "08:20",
+    "end": "09:10",
+    "colour": "RoyalBlue"
   },
   {
     "date": "2026-03-24",
@@ -841,7 +953,7 @@
   },
   {
     "date": "2026-03-24",
-    "title": "P4 Y10S3 Maths",
+    "title": "P4 Y10S3 Maths 10.2.7",
     "start": "11:40",
     "end": "12:30",
     "colour": "dodgerblue"
@@ -851,14 +963,14 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
   },
   {
     "date": "2026-03-25",
-    "title": "P2 Y12S0 Maths",
+    "title": "P2 Y9S2 Maths 13.2.2",
     "start": "09:10",
     "end": "10:00",
-    "colour": "lightsteelblue"
+    "colour": "RoyalBlue"
   },
   {
     "date": "2026-03-25",
@@ -872,11 +984,11 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
   },
   {
     "date": "2026-03-25",
-    "title": "P5 Y10S3 Maths",
+    "title": "P5 Y10S3 Maths 10.2.7",
     "start": "13:10",
     "end": "14:00",
     "colour": "dodgerblue"
@@ -900,18 +1012,18 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
   },
   {
     "date": "2026-03-26",
-    "title": "P6 Y10S3 Maths",
+    "title": "P6 Y10S3 Maths 10.2.7",
     "start": "14:00",
     "end": "14:50",
     "colour": "dodgerblue"
   },
   {
     "date": "2026-03-27",
-    "title": "P1 Y10S3 Maths",
+    "title": "P1 Y10S3 Maths 10.2.7",
     "start": "08:20",
     "end": "09:10",
     "colour": "dodgerblue"
@@ -922,6 +1034,13 @@
     "start": "10:00",
     "end": "10:30",
     "colour": "gold"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "P3 Y9S2 Maths 13.2.2",
+    "start": "10:30",
+    "end": "11:20",
+    "colour": "RoyalBlue"
   },
   {
     "date": "2026-03-27",
@@ -942,7 +1061,7 @@
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
-    "colour": "lightyellow"
+    "colour": "khaki"
   },
   {
     "date": "2026-03-27",
@@ -950,5 +1069,33 @@
     "start": "13:10",
     "end": "14:00",
     "colour": "mediumseagreen"
+  },
+  {
+    "date": "2026-03-30",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple"
+  },
+  {
+    "date": "2026-03-30",
+    "title": "P4 Y9S2 Maths 13.2.2",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "RoyalBlue"
+  },
+  {
+    "date": "2026-03-30",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki"
+  },
+  {
+    "date": "2026-03-30",
+    "title": "P5 Y12S0 Maths",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "lightsteelblue"
   }
 ]
