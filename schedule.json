@@ -1,6 +1,18 @@
 [
   {
     "date": "2026-01-29",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-01-29",
     "title": "Assembly",
     "start": "10:00",
     "end": "10:50",
@@ -8,7 +20,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -20,8 +32,21 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
+    }
+  },
+  {
+    "date": "2026-01-29",
+    "title": "P5 Y12S0 Maths",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
     }
   },
   {
@@ -33,1471 +58,73 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-01-29",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-01-29",
-    "title": "P5 Y12S0 Maths",
-    "start": "13:10",
-    "end": "14:00",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
     }
   },
   {
     "date": "2026-01-30",
-    "title": "P2 Y10S3 Maths 10.2.7",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-01-30",
-    "title": "Recess",
-    "start": "10:00",
-    "end": "10:30",
-    "colour": "gold",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-01-30",
-    "title": "P3 Y10 HPL",
-    "start": "10:30",
-    "end": "11:20",
-    "colour": "yellowgreen",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-01-30",
-    "title": "P4 Y9S2 Maths 13.2.2",
-    "start": "11:20",
-    "end": "12:10",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
-    }
-  },
-  {
-    "date": "2026-01-30",
-    "title": "P4 Y7 HPL",
-    "start": "11:20",
-    "end": "12:10",
-    "colour": "palegreen",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-01-30",
-    "title": "House Meeting",
-    "start": "12:10",
-    "end": "12:30",
-    "colour": "orchid",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-01-30",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-02",
-    "title": "P2 Y12S0 Maths",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-02",
-    "title": "Chapel/Tutor",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "mediumpurple",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-02",
-    "title": "P3 Y10S3 Maths 10.2.7",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-02",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-02",
-    "title": "P5 Y9S2 Maths 13.2.2",
-    "start": "13:10",
-    "end": "14:00",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
-    }
-  },
-  {
-    "date": "2026-02-03",
-    "title": "Chapel/Tutor",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "mediumpurple",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-03",
-    "title": "P3 Y12S0 Maths",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-03",
-    "title": "P4 Y10S3 Maths 10.2.7",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-03",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-03",
-    "title": "P6 Y9S2 Maths 13.2.2",
-    "start": "14:00",
-    "end": "14:50",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
-    }
-  },
-  {
-    "date": "2026-02-04",
-    "title": "P1 Y9S2 Maths 13.2.2",
-    "start": "08:20",
-    "end": "09:10",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
-    }
-  },
-  {
-    "date": "2026-02-04",
-    "title": "P2 Y12S0 Maths",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-04",
-    "title": "Chapel/Tutor",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "mediumpurple",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-04",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-04",
-    "title": "P5 Y10S3 Maths 10.2.7",
-    "start": "13:10",
-    "end": "14:00",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-05",
-    "title": "House Group",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "orchid",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-05",
-    "title": "P3 Y12S0 Maths",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-05",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-05",
-    "title": "P6 Y10S3 Maths 10.2.7",
-    "start": "14:00",
-    "end": "14:50",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-06",
-    "title": "P1 Y10S3 Maths 10.2.7",
-    "start": "08:20",
-    "end": "09:10",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-06",
-    "title": "Recess",
-    "start": "10:00",
-    "end": "10:30",
-    "colour": "gold",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-06",
-    "title": "P3 Y9S2 Maths 13.2.2",
-    "start": "10:30",
-    "end": "11:20",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
-    }
-  },
-  {
-    "date": "2026-02-06",
-    "title": "P4 Y12S0 Maths",
-    "start": "11:20",
-    "end": "12:10",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-06",
-    "title": "House Meeting",
-    "start": "12:10",
-    "end": "12:30",
-    "colour": "orchid",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-06",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-06",
-    "title": "P5 Y8 HPL",
-    "start": "13:10",
-    "end": "14:00",
-    "colour": "mediumseagreen",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-09",
-    "title": "Chapel/Tutor",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "mediumpurple",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-09",
-    "title": "P3 Y9S2 Maths 13.2.2",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
-    }
-  },
-  {
-    "date": "2026-02-09",
-    "title": "P4 Y9 HPL",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "green",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-09",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-09",
-    "title": "P5 Y12S0 Maths",
-    "start": "13:10",
-    "end": "14:00",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-10",
-    "title": "P2 Y10S3 Maths 10.2.7",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-10",
-    "title": "Chapel/Tutor",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "mediumpurple",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-10",
-    "title": "P3 Y10 HPL",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "yellowgreen",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-10",
-    "title": "P4 Y9S2 Maths 13.2.2",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
-    }
-  },
-  {
-    "date": "2026-02-10",
-    "title": "P4 Y7 HPL",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "palegreen",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-10",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-11",
-    "title": "P2 Y12S0 Maths",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-11",
-    "title": "Chapel/Tutor",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "mediumpurple",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-11",
-    "title": "P3 Y10S3 Maths 10.2.7",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-11",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-11",
-    "title": "P5 Y9S2 Maths 13.2.2",
-    "start": "13:10",
-    "end": "14:00",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
-    }
-  },
-  {
-    "date": "2026-02-12",
-    "title": "Assembly",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "plum",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-12",
-    "title": "P3 Y12S0 Maths",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-12",
-    "title": "P4 Y10S3 Maths 10.2.7",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-12",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-12",
-    "title": "P6 Y9S2 Maths 13.2.2",
-    "start": "14:00",
-    "end": "14:50",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
-    }
-  },
-  {
-    "date": "2026-02-13",
-    "title": "P1 Y9S2 Maths 13.2.2",
-    "start": "08:20",
-    "end": "09:10",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
-    }
-  },
-  {
-    "date": "2026-02-13",
-    "title": "P2 Y12S0 Maths",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-13",
-    "title": "Recess",
-    "start": "10:00",
-    "end": "10:30",
-    "colour": "gold",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-13",
-    "title": "House Meeting",
-    "start": "12:10",
-    "end": "12:30",
-    "colour": "orchid",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-13",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-13",
-    "title": "P5 Y10S3 Maths 10.2.7",
-    "start": "13:10",
-    "end": "14:00",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-16",
-    "title": "Chapel/Tutor",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "mediumpurple",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-16",
-    "title": "P3 Y12S0 Maths",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-16",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-16",
-    "title": "P6 Y10S3 Maths 10.2.7",
-    "start": "14:00",
-    "end": "14:50",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-17",
-    "title": "P1 Y10S3 Maths 10.2.7",
-    "start": "08:20",
-    "end": "09:10",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-17",
-    "title": "Chapel/Tutor",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "mediumpurple",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-17",
-    "title": "P3 Y9S2 Maths 13.2.2",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
-    }
-  },
-  {
-    "date": "2026-02-17",
-    "title": "P4 Y12S0 Maths",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-17",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-17",
-    "title": "P5 Y8 HPL",
-    "start": "13:10",
-    "end": "14:00",
-    "colour": "mediumseagreen",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-18",
-    "title": "Chapel/Tutor",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "mediumpurple",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-18",
-    "title": "P3 Y9S2 Maths 13.2.2",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
-    }
-  },
-  {
-    "date": "2026-02-18",
-    "title": "P4 Y9 HPL",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "green",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-18",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-18",
-    "title": "P5 Y12S0 Maths",
-    "start": "13:10",
-    "end": "14:00",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-19",
-    "title": "P2 Y10S3 Maths 10.2.7",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-19",
-    "title": "House Group",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "orchid",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-19",
-    "title": "P3 Y10 HPL",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "yellowgreen",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-19",
-    "title": "P4 Y9S2 Maths 13.2.2",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
-    }
-  },
-  {
-    "date": "2026-02-19",
-    "title": "P4 Y7 HPL",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "palegreen",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-19",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-20",
-    "title": "P2 Y12S0 Maths",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-20",
-    "title": "Recess",
-    "start": "10:00",
-    "end": "10:30",
-    "colour": "gold",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-20",
-    "title": "P3 Y10S3 Maths 10.2.7",
-    "start": "10:30",
-    "end": "11:20",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-20",
-    "title": "House Meeting",
-    "start": "12:10",
-    "end": "12:30",
-    "colour": "orchid",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-20",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-20",
-    "title": "P5 Y9S2 Maths 13.2.2",
-    "start": "13:10",
-    "end": "14:00",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
-    }
-  },
-  {
-    "date": "2026-02-23",
-    "title": "Chapel/Tutor",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "mediumpurple",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-23",
-    "title": "P3 Y12S0 Maths",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-23",
-    "title": "P4 Y10S3 Maths 10.2.7",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-23",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-23",
-    "title": "P6 Y9S2 Maths 13.2.2",
-    "start": "14:00",
-    "end": "14:50",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
-    }
-  },
-  {
-    "date": "2026-02-24",
-    "title": "P1 Y9S2 Maths 13.2.2",
-    "start": "08:20",
-    "end": "09:10",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
-    }
-  },
-  {
-    "date": "2026-02-24",
-    "title": "P2 Y12S0 Maths",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-24",
-    "title": "Chapel/Tutor",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "mediumpurple",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-24",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-24",
-    "title": "P5 Y10S3 Maths 10.2.7",
-    "start": "13:10",
-    "end": "14:00",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-25",
-    "title": "Chapel/Tutor",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "mediumpurple",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-25",
-    "title": "P3 Y12S0 Maths",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-25",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-25",
-    "title": "P6 Y10S3 Maths 10.2.7",
-    "start": "14:00",
-    "end": "14:50",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-26",
-    "title": "P1 Y10S3 Maths 10.2.7",
-    "start": "08:20",
-    "end": "09:10",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-26",
-    "title": "Assembly",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "plum",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-26",
-    "title": "P3 Y9S2 Maths 13.2.2",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
-    }
-  },
-  {
-    "date": "2026-02-26",
-    "title": "P4 Y12S0 Maths",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-26",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-26",
-    "title": "P5 Y8 HPL",
-    "start": "13:10",
-    "end": "14:00",
-    "colour": "mediumseagreen",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-27",
-    "title": "Recess",
-    "start": "10:00",
-    "end": "10:30",
-    "colour": "gold",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-27",
-    "title": "P3 Y9S2 Maths 13.2.2",
-    "start": "10:30",
-    "end": "11:20",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
-    }
-  },
-  {
-    "date": "2026-02-27",
-    "title": "P4 Y9 HPL",
-    "start": "11:20",
-    "end": "12:10",
-    "colour": "green",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-27",
-    "title": "House Meeting",
-    "start": "12:10",
-    "end": "12:30",
-    "colour": "orchid",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-27",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-02-27",
-    "title": "P5 Y12S0 Maths",
-    "start": "13:10",
-    "end": "14:00",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-02-28",
-    "title": "Mardi Gras End Area",
+    "title": "Robotics",
     "start": "15:00",
-    "end": "23:00",
-    "colour": "hotpink",
+    "end": "16:00",
+    "colour": "orange",
     "meta": {
-      "origin": "special",
-      "locked": true,
-      "last_updated": "2026-02-15T11:04:23.573066"
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
-    "date": "2026-03-02",
+    "date": "2026-01-30",
+    "title": "Recess",
+    "start": "10:00",
+    "end": "10:30",
+    "colour": "gold",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-01-30",
+    "title": "House Meeting",
+    "start": "12:10",
+    "end": "12:30",
+    "colour": "orchid",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-01-30",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-01-30",
+    "title": "P4 Y9S2 Maths 13.2.2",
+    "start": "11:20",
+    "end": "12:10",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
+    }
+  },
+  {
+    "date": "2026-01-30",
     "title": "P2 Y10S3 Maths 10.2.7",
     "start": "09:10",
     "end": "10:00",
@@ -1505,7 +132,1511 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-01-30",
+    "title": "P4 Y7 HPL",
+    "start": "11:20",
+    "end": "12:10",
+    "colour": "palegreen",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-01-30",
+    "title": "P3 Y10 HPL",
+    "start": "10:30",
+    "end": "11:20",
+    "colour": "yellowgreen",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-02",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-02",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-02",
+    "title": "P5 Y9S2 Maths 13.2.2",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
+    }
+  },
+  {
+    "date": "2026-02-02",
+    "title": "P3 Y10S3 Maths 10.2.7",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-02",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-03",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-03",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-03",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-03",
+    "title": "P6 Y9S2 Maths 13.2.2",
+    "start": "14:00",
+    "end": "14:50",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
+    }
+  },
+  {
+    "date": "2026-02-03",
+    "title": "P4 Y10S3 Maths 10.2.7",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-03",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-04",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-04",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-04",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-04",
+    "title": "P1 Y9S2 Maths 13.2.2",
+    "start": "08:20",
+    "end": "09:10",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
+    }
+  },
+  {
+    "date": "2026-02-04",
+    "title": "P5 Y10S3 Maths 10.2.7",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-04",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-05",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-05",
+    "title": "House Group",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "orchid",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-05",
+    "title": "P6 Y10S3 Maths 10.2.7",
+    "start": "14:00",
+    "end": "14:50",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-05",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-06",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-06",
+    "title": "Recess",
+    "start": "10:00",
+    "end": "10:30",
+    "colour": "gold",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-06",
+    "title": "House Meeting",
+    "start": "12:10",
+    "end": "12:30",
+    "colour": "orchid",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-06",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-06",
+    "title": "P3 Y9S2 Maths 13.2.2",
+    "start": "10:30",
+    "end": "11:20",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
+    }
+  },
+  {
+    "date": "2026-02-06",
+    "title": "P1 Y10S3 Maths 10.2.7",
+    "start": "08:20",
+    "end": "09:10",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-06",
+    "title": "P4 Y12S0 Maths",
+    "start": "11:20",
+    "end": "12:10",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-06",
+    "title": "P5 Y8 HPL",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "mediumseagreen",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-09",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-09",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-09",
+    "title": "P3 Y9S2 Maths 13.2.2",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
+    }
+  },
+  {
+    "date": "2026-02-09",
+    "title": "P5 Y12S0 Maths",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-09",
+    "title": "P4 Y9 HPL",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "green",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-10",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-10",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-10",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-10",
+    "title": "P4 Y9S2 Maths 13.2.2",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
+    }
+  },
+  {
+    "date": "2026-02-10",
+    "title": "P2 Y10S3 Maths 10.2.7",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-10",
+    "title": "P4 Y7 HPL",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "palegreen",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-10",
+    "title": "P3 Y10 HPL",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "yellowgreen",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-11",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-11",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-11",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-11",
+    "title": "P5 Y9S2 Maths 13.2.2",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
+    }
+  },
+  {
+    "date": "2026-02-11",
+    "title": "P3 Y10S3 Maths 10.2.7",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-11",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-12",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-12",
+    "title": "Assembly",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "plum",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-12",
+    "title": "P6 Y9S2 Maths 13.2.2",
+    "start": "14:00",
+    "end": "14:50",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
+    }
+  },
+  {
+    "date": "2026-02-12",
+    "title": "P4 Y10S3 Maths 10.2.7",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-12",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-13",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-13",
+    "title": "Recess",
+    "start": "10:00",
+    "end": "10:30",
+    "colour": "gold",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-13",
+    "title": "House Meeting",
+    "start": "12:10",
+    "end": "12:30",
+    "colour": "orchid",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-13",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-13",
+    "title": "P1 Y9S2 Maths 13.2.2",
+    "start": "08:20",
+    "end": "09:10",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
+    }
+  },
+  {
+    "date": "2026-02-13",
+    "title": "P5 Y10S3 Maths 10.2.7",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-13",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-16",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-16",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-16",
+    "title": "P6 Y10S3 Maths 10.2.7",
+    "start": "14:00",
+    "end": "14:50",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-16",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-17",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-17",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-17",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-17",
+    "title": "P3 Y9S2 Maths 13.2.2",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
+    }
+  },
+  {
+    "date": "2026-02-17",
+    "title": "P1 Y10S3 Maths 10.2.7",
+    "start": "08:20",
+    "end": "09:10",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-17",
+    "title": "P4 Y12S0 Maths",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-17",
+    "title": "P5 Y8 HPL",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "mediumseagreen",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-18",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-18",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-18",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-18",
+    "title": "P3 Y9S2 Maths 13.2.2",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
+    }
+  },
+  {
+    "date": "2026-02-18",
+    "title": "P5 Y12S0 Maths",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-18",
+    "title": "P4 Y9 HPL",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "green",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-19",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-19",
+    "title": "House Group",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "orchid",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-19",
+    "title": "P4 Y9S2 Maths 13.2.2",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
+    }
+  },
+  {
+    "date": "2026-02-19",
+    "title": "P2 Y10S3 Maths 10.2.7",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-19",
+    "title": "P4 Y7 HPL",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "palegreen",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-19",
+    "title": "P3 Y10 HPL",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "yellowgreen",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-20",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-20",
+    "title": "Recess",
+    "start": "10:00",
+    "end": "10:30",
+    "colour": "gold",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-20",
+    "title": "House Meeting",
+    "start": "12:10",
+    "end": "12:30",
+    "colour": "orchid",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-20",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-20",
+    "title": "P5 Y9S2 Maths 13.2.2",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
+    }
+  },
+  {
+    "date": "2026-02-20",
+    "title": "P3 Y10S3 Maths 10.2.7",
+    "start": "10:30",
+    "end": "11:20",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-20",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-23",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-23",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-23",
+    "title": "P6 Y9S2 Maths 13.2.2",
+    "start": "14:00",
+    "end": "14:50",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
+    }
+  },
+  {
+    "date": "2026-02-23",
+    "title": "P4 Y10S3 Maths 10.2.7",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-23",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-24",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-24",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-24",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-24",
+    "title": "P1 Y9S2 Maths 13.2.2",
+    "start": "08:20",
+    "end": "09:10",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
+    }
+  },
+  {
+    "date": "2026-02-24",
+    "title": "P5 Y10S3 Maths 10.2.7",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-24",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-25",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-25",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-25",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-25",
+    "title": "P6 Y10S3 Maths 10.2.7",
+    "start": "14:00",
+    "end": "14:50",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-25",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-26",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-26",
+    "title": "Assembly",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "plum",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-26",
+    "title": "P3 Y9S2 Maths 13.2.2",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
+    }
+  },
+  {
+    "date": "2026-02-26",
+    "title": "P1 Y10S3 Maths 10.2.7",
+    "start": "08:20",
+    "end": "09:10",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-26",
+    "title": "P4 Y12S0 Maths",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-26",
+    "title": "P5 Y8 HPL",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "mediumseagreen",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-27",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-27",
+    "title": "Recess",
+    "start": "10:00",
+    "end": "10:30",
+    "colour": "gold",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-27",
+    "title": "House Meeting",
+    "start": "12:10",
+    "end": "12:30",
+    "colour": "orchid",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-27",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-02-27",
+    "title": "P3 Y9S2 Maths 13.2.2",
+    "start": "10:30",
+    "end": "11:20",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
+    }
+  },
+  {
+    "date": "2026-02-27",
+    "title": "P5 Y12S0 Maths",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-02-27",
+    "title": "P4 Y9 HPL",
+    "start": "11:20",
+    "end": "12:10",
+    "colour": "green",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
     }
   },
@@ -1518,20 +1649,19 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
     "date": "2026-03-02",
-    "title": "P3 Y10 HPL",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "yellowgreen",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -1543,8 +1673,21 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
+    }
+  },
+  {
+    "date": "2026-03-02",
+    "title": "P2 Y10S3 Maths 10.2.7",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
     }
   },
   {
@@ -1556,33 +1699,33 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
     }
   },
   {
     "date": "2026-03-02",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
+    "title": "P3 Y10 HPL",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "yellowgreen",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
     }
   },
   {
     "date": "2026-03-03",
-    "title": "P2 Y12S0 Maths",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "lightsteelblue",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -1594,20 +1737,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-03-03",
-    "title": "P3 Y10S3 Maths 10.2.7",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -1619,7 +1749,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -1631,8 +1761,46 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
+    }
+  },
+  {
+    "date": "2026-03-03",
+    "title": "P3 Y10S3 Maths 10.2.7",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-03",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-04",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -1644,33 +1812,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-03-04",
-    "title": "P3 Y12S0 Maths",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-03-04",
-    "title": "P4 Y10S3 Maths 10.2.7",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -1682,7 +1824,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -1694,34 +1836,46 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
     }
   },
   {
-    "date": "2026-03-05",
-    "title": "P1 Y9S2 Maths 13.2.2",
-    "start": "08:20",
-    "end": "09:10",
-    "colour": "RoyalBlue",
+    "date": "2026-03-04",
+    "title": "P4 Y10S3 Maths 10.2.7",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "dodgerblue",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
     }
   },
   {
-    "date": "2026-03-05",
-    "title": "P2 Y12S0 Maths",
-    "start": "09:10",
-    "end": "10:00",
+    "date": "2026-03-04",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:50",
+    "end": "11:40",
     "colour": "lightsteelblue",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-05",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -1733,19 +1887,20 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
     "date": "2026-03-05",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
+    "title": "P1 Y9S2 Maths 13.2.2",
+    "start": "08:20",
+    "end": "09:10",
+    "colour": "RoyalBlue",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
     }
   },
   {
@@ -1757,8 +1912,33 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-05",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-06",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -1770,20 +1950,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-03-06",
-    "title": "P3 Y12S0 Maths",
-    "start": "10:30",
-    "end": "11:20",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -1795,7 +1962,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -1807,7 +1974,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -1819,8 +1986,58 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-06",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:30",
+    "end": "11:20",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-09",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-03-09",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-03-09",
+    "title": "P3 Y9S2 Maths 13.2.2",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
     }
   },
   {
@@ -1832,33 +2049,8 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
-    }
-  },
-  {
-    "date": "2026-03-09",
-    "title": "Chapel/Tutor",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "mediumpurple",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-03-09",
-    "title": "P3 Y9S2 Maths 13.2.2",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
     }
   },
   {
@@ -1870,20 +2062,8 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
-    }
-  },
-  {
-    "date": "2026-03-09",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
     }
   },
   {
@@ -1895,8 +2075,20 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-10",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -1908,7 +2100,19 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-03-10",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -1920,33 +2124,8 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
-    }
-  },
-  {
-    "date": "2026-03-10",
-    "title": "P4 Y9 HPL",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "green",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-03-10",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
     }
   },
   {
@@ -1958,21 +2137,33 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-10",
+    "title": "P4 Y9 HPL",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "green",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
     }
   },
   {
     "date": "2026-03-11",
-    "title": "P2 Y10S3 Maths 10.2.7",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "dodgerblue",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -1984,46 +2175,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-03-11",
-    "title": "P3 Y10 HPL",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "yellowgreen",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-03-11",
-    "title": "P4 Y9S2 Maths 13.2.2",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
-    }
-  },
-  {
-    "date": "2026-03-11",
-    "title": "P4 Y7 HPL",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "palegreen",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2035,20 +2187,71 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-03-11",
+    "title": "P4 Y9S2 Maths 13.2.2",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
+    }
+  },
+  {
+    "date": "2026-03-11",
+    "title": "P2 Y10S3 Maths 10.2.7",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-11",
+    "title": "P4 Y7 HPL",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "palegreen",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-11",
+    "title": "P3 Y10 HPL",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "yellowgreen",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
     }
   },
   {
     "date": "2026-03-12",
-    "title": "P2 Y12S0 Maths",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "lightsteelblue",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2060,32 +2263,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-03-12",
-    "title": "P3 Y10S3 Maths 10.2.7",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-03-12",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2097,8 +2275,46 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
+    }
+  },
+  {
+    "date": "2026-03-12",
+    "title": "P3 Y10S3 Maths 10.2.7",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-12",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-13",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2110,33 +2326,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-03-13",
-    "title": "P3 Y12S0 Maths",
-    "start": "10:30",
-    "end": "11:20",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-03-13",
-    "title": "P4 Y10S3 Maths 10.2.7",
-    "start": "11:20",
-    "end": "12:10",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2148,7 +2338,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2160,7 +2350,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2172,8 +2362,58 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
+    }
+  },
+  {
+    "date": "2026-03-13",
+    "title": "P4 Y10S3 Maths 10.2.7",
+    "start": "11:20",
+    "end": "12:10",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-13",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:30",
+    "end": "11:20",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-16",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-03-16",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2185,45 +2425,8 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
-    }
-  },
-  {
-    "date": "2026-03-16",
-    "title": "P2 Y12S0 Maths",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-03-16",
-    "title": "Chapel/Tutor",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "mediumpurple",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-03-16",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
     }
   },
   {
@@ -2235,8 +2438,33 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-16",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-17",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2248,20 +2476,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-03-17",
-    "title": "P3 Y12S0 Maths",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2273,7 +2488,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2285,8 +2500,70 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-17",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-18",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-03-18",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-03-18",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-03-18",
+    "title": "P3 Y9S2 Maths 13.2.2",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
     }
   },
   {
@@ -2298,33 +2575,8 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
-    }
-  },
-  {
-    "date": "2026-03-18",
-    "title": "Chapel/Tutor",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "mediumpurple",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-03-18",
-    "title": "P3 Y9S2 Maths 13.2.2",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
     }
   },
   {
@@ -2336,20 +2588,8 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
-    }
-  },
-  {
-    "date": "2026-03-18",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
     }
   },
   {
@@ -2361,8 +2601,20 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-19",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2374,7 +2626,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2386,33 +2638,8 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
-    }
-  },
-  {
-    "date": "2026-03-19",
-    "title": "P4 Y9 HPL",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "green",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-03-19",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
     }
   },
   {
@@ -2424,21 +2651,33 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-19",
+    "title": "P4 Y9 HPL",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "green",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
     }
   },
   {
     "date": "2026-03-20",
-    "title": "P2 Y10S3 Maths 10.2.7",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "dodgerblue",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2450,46 +2689,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-03-20",
-    "title": "P3 Y10 HPL",
-    "start": "10:30",
-    "end": "11:20",
-    "colour": "yellowgreen",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-03-20",
-    "title": "P4 Y9S2 Maths 13.2.2",
-    "start": "11:20",
-    "end": "12:10",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
-    }
-  },
-  {
-    "date": "2026-03-20",
-    "title": "P4 Y7 HPL",
-    "start": "11:20",
-    "end": "12:10",
-    "colour": "palegreen",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2501,7 +2701,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2513,19 +2713,58 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
-    "date": "2026-03-23",
-    "title": "P2 Y12S0 Maths",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "lightsteelblue",
+    "date": "2026-03-20",
+    "title": "P4 Y9S2 Maths 13.2.2",
+    "start": "11:20",
+    "end": "12:10",
+    "colour": "RoyalBlue",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
+    }
+  },
+  {
+    "date": "2026-03-20",
+    "title": "P2 Y10S3 Maths 10.2.7",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-20",
+    "title": "P4 Y7 HPL",
+    "start": "11:20",
+    "end": "12:10",
+    "colour": "palegreen",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-20",
+    "title": "P3 Y10 HPL",
+    "start": "10:30",
+    "end": "11:20",
+    "colour": "yellowgreen",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
     }
   },
@@ -2538,20 +2777,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-03-23",
-    "title": "P3 Y10S3 Maths 10.2.7",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2563,7 +2789,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2575,8 +2801,46 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
+    }
+  },
+  {
+    "date": "2026-03-23",
+    "title": "P3 Y10S3 Maths 10.2.7",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-23",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2588,33 +2852,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-03-24",
-    "title": "P3 Y12S0 Maths",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-03-24",
-    "title": "P4 Y10S3 Maths 10.2.7",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2626,7 +2864,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2638,34 +2876,46 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
     }
   },
   {
-    "date": "2026-03-25",
-    "title": "P1 Y9S2 Maths 13.2.2",
-    "start": "08:20",
-    "end": "09:10",
-    "colour": "RoyalBlue",
+    "date": "2026-03-24",
+    "title": "P4 Y10S3 Maths 10.2.7",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "dodgerblue",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
     }
   },
   {
-    "date": "2026-03-25",
-    "title": "P2 Y12S0 Maths",
-    "start": "09:10",
-    "end": "10:00",
+    "date": "2026-03-24",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:50",
+    "end": "11:40",
     "colour": "lightsteelblue",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2677,7 +2927,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2689,7 +2939,20 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-03-25",
+    "title": "P1 Y9S2 Maths 13.2.2",
+    "start": "08:20",
+    "end": "09:10",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
     }
   },
   {
@@ -2701,8 +2964,33 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-25",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-26",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2714,32 +3002,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-03-26",
-    "title": "P3 Y12S0 Maths",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-03-26",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2751,21 +3014,33 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-26",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
     }
   },
   {
     "date": "2026-03-27",
-    "title": "P1 Y10S3 Maths 10.2.7",
-    "start": "08:20",
-    "end": "09:10",
-    "colour": "dodgerblue",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2777,7 +3052,31 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-03-27",
+    "title": "House Meeting",
+    "start": "12:10",
+    "end": "12:30",
+    "colour": "orchid",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-03-27",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2789,8 +3088,21 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
+    }
+  },
+  {
+    "date": "2026-03-27",
+    "title": "P1 Y10S3 Maths 10.2.7",
+    "start": "08:20",
+    "end": "09:10",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
     }
   },
   {
@@ -2802,32 +3114,8 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
-    }
-  },
-  {
-    "date": "2026-03-27",
-    "title": "House Meeting",
-    "start": "12:10",
-    "end": "12:30",
-    "colour": "orchid",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-03-27",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
     }
   },
   {
@@ -2839,7 +3127,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
     }
   },
@@ -2852,7 +3140,19 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-03-30",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2864,33 +3164,8 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
-    }
-  },
-  {
-    "date": "2026-03-30",
-    "title": "P4 Y9 HPL",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "green",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-03-30",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
     }
   },
   {
@@ -2902,21 +3177,33 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-03-30",
+    "title": "P4 Y9 HPL",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "green",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
     }
   },
   {
     "date": "2026-03-31",
-    "title": "P2 Y10S3 Maths 10.2.7",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "dodgerblue",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2928,20 +3215,19 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
     "date": "2026-03-31",
-    "title": "P3 Y10 HPL",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "yellowgreen",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -2953,8 +3239,21 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
+    }
+  },
+  {
+    "date": "2026-03-31",
+    "title": "P2 Y10S3 Maths 10.2.7",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
     }
   },
   {
@@ -2966,33 +3265,33 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
     }
   },
   {
     "date": "2026-03-31",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
+    "title": "P3 Y10 HPL",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "yellowgreen",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
     }
   },
   {
     "date": "2026-04-01",
-    "title": "P2 Y12S0 Maths",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "lightsteelblue",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3004,20 +3303,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-04-01",
-    "title": "P3 Y10S3 Maths 10.2.7",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3029,7 +3315,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3041,8 +3327,46 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
+    }
+  },
+  {
+    "date": "2026-04-01",
+    "title": "P3 Y10S3 Maths 10.2.7",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-01",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-02",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3054,45 +3378,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-04-02",
-    "title": "P3 Y12S0 Maths",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-04-02",
-    "title": "P4 Y10S3 Maths 10.2.7",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-04-02",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3104,34 +3390,46 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
     }
   },
   {
-    "date": "2026-04-03",
-    "title": "P1 Y9S2 Maths 13.2.2",
-    "start": "08:20",
-    "end": "09:10",
-    "colour": "RoyalBlue",
+    "date": "2026-04-02",
+    "title": "P4 Y10S3 Maths 10.2.7",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "dodgerblue",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
     }
   },
   {
-    "date": "2026-04-03",
-    "title": "P2 Y12S0 Maths",
-    "start": "09:10",
-    "end": "10:00",
+    "date": "2026-04-02",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:50",
+    "end": "11:40",
     "colour": "lightsteelblue",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-03",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3143,7 +3441,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3155,7 +3453,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3167,7 +3465,20 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-04-03",
+    "title": "P1 Y9S2 Maths 13.2.2",
+    "start": "08:20",
+    "end": "09:10",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
     }
   },
   {
@@ -3179,7 +3490,20 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-03",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
     }
   },
@@ -3192,20 +3516,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-04-06",
-    "title": "P3 Y12S0 Maths",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3217,7 +3528,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3229,8 +3540,70 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-06",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-07",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-04-07",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-04-07",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-04-07",
+    "title": "P3 Y9S2 Maths 13.2.2",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
     }
   },
   {
@@ -3242,33 +3615,8 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
-    }
-  },
-  {
-    "date": "2026-04-07",
-    "title": "Chapel/Tutor",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "mediumpurple",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-04-07",
-    "title": "P3 Y9S2 Maths 13.2.2",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
     }
   },
   {
@@ -3280,20 +3628,8 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
-    }
-  },
-  {
-    "date": "2026-04-07",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
     }
   },
   {
@@ -3305,8 +3641,20 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-08",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3318,33 +3666,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-04-08",
-    "title": "P3 Y9S2 Maths 13.2.2",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
-    }
-  },
-  {
-    "date": "2026-04-08",
-    "title": "P4 Y9 HPL",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "green",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3356,7 +3678,20 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-04-08",
+    "title": "P3 Y9S2 Maths 13.2.2",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
     }
   },
   {
@@ -3368,21 +3703,33 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-08",
+    "title": "P4 Y9 HPL",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "green",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
     }
   },
   {
     "date": "2026-04-09",
-    "title": "P2 Y10S3 Maths 10.2.7",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "dodgerblue",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3394,20 +3741,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-04-09",
-    "title": "P3 Y10 HPL",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "yellowgreen",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3419,8 +3753,21 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
+    }
+  },
+  {
+    "date": "2026-04-09",
+    "title": "P2 Y10S3 Maths 10.2.7",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
     }
   },
   {
@@ -3432,33 +3779,33 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
     }
   },
   {
     "date": "2026-04-09",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
+    "title": "P3 Y10 HPL",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "yellowgreen",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
     }
   },
   {
     "date": "2026-04-10",
-    "title": "P2 Y12S0 Maths",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "lightsteelblue",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3470,20 +3817,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-04-10",
-    "title": "P3 Y10S3 Maths 10.2.7",
-    "start": "10:30",
-    "end": "11:20",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3495,7 +3829,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3507,7 +3841,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3519,8 +3853,34 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
+    }
+  },
+  {
+    "date": "2026-04-10",
+    "title": "P3 Y10S3 Maths 10.2.7",
+    "start": "10:30",
+    "end": "11:20",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-10",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
     }
   },
   {
@@ -3532,33 +3892,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-04-13",
-    "title": "P3 Y12S0 Maths",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-04-13",
-    "title": "P4 Y10S3 Maths 10.2.7",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3570,7 +3904,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3582,8 +3916,70 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
+    }
+  },
+  {
+    "date": "2026-04-13",
+    "title": "P4 Y10S3 Maths 10.2.7",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-13",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-14",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-04-14",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-04-14",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3595,45 +3991,8 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
-    }
-  },
-  {
-    "date": "2026-04-14",
-    "title": "P2 Y12S0 Maths",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-04-14",
-    "title": "Chapel/Tutor",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "mediumpurple",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-04-14",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
     }
   },
   {
@@ -3645,8 +4004,33 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-14",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-15",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3658,20 +4042,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-04-15",
-    "title": "P3 Y12S0 Maths",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3683,7 +4054,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3695,58 +4066,20 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
     }
   },
   {
-    "date": "2026-04-16",
-    "title": "P1 Y10S3 Maths 10.2.7",
-    "start": "08:20",
-    "end": "09:10",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-04-16",
-    "title": "House Group",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "orchid",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-04-16",
-    "title": "P3 Y9S2 Maths 13.2.2",
+    "date": "2026-04-15",
+    "title": "P3 Y12S0 Maths",
     "start": "10:50",
     "end": "11:40",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
-    }
-  },
-  {
-    "date": "2026-04-16",
-    "title": "P4 Y12S0 Maths",
-    "start": "11:40",
-    "end": "12:30",
     "colour": "lightsteelblue",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
     }
   },
@@ -3759,7 +4092,58 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-04-16",
+    "title": "House Group",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "orchid",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-04-16",
+    "title": "P3 Y9S2 Maths 13.2.2",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
+    }
+  },
+  {
+    "date": "2026-04-16",
+    "title": "P1 Y10S3 Maths 10.2.7",
+    "start": "08:20",
+    "end": "09:10",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-16",
+    "title": "P4 Y12S0 Maths",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
     }
   },
   {
@@ -3771,8 +4155,20 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-17",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3784,7 +4180,31 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-04-17",
+    "title": "House Meeting",
+    "start": "12:10",
+    "end": "12:30",
+    "colour": "orchid",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-04-17",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3796,8 +4216,21 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
+    }
+  },
+  {
+    "date": "2026-04-17",
+    "title": "P5 Y12S0 Maths",
+    "start": "13:10",
+    "end": "14:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
     }
   },
   {
@@ -3809,57 +4242,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-04-17",
-    "title": "House Meeting",
-    "start": "12:10",
-    "end": "12:30",
-    "colour": "orchid",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-04-17",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-04-17",
-    "title": "P5 Y12S0 Maths",
-    "start": "13:10",
-    "end": "14:00",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-04-20",
-    "title": "P2 Y10S3 Maths 10.2.7",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
     }
   },
@@ -3872,20 +4255,19 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
     "date": "2026-04-20",
-    "title": "P3 Y10 HPL",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "yellowgreen",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3897,8 +4279,21 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
+    }
+  },
+  {
+    "date": "2026-04-20",
+    "title": "P2 Y10S3 Maths 10.2.7",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
     }
   },
   {
@@ -3910,33 +4305,33 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
     }
   },
   {
     "date": "2026-04-20",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
+    "title": "P3 Y10 HPL",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "yellowgreen",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
     }
   },
   {
     "date": "2026-04-21",
-    "title": "P2 Y12S0 Maths",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "lightsteelblue",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3948,20 +4343,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-04-21",
-    "title": "P3 Y10S3 Maths 10.2.7",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3973,7 +4355,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3985,8 +4367,46 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
+    }
+  },
+  {
+    "date": "2026-04-21",
+    "title": "P3 Y10S3 Maths 10.2.7",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-21",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-22",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -3998,33 +4418,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-04-22",
-    "title": "P3 Y12S0 Maths",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-04-22",
-    "title": "P4 Y10S3 Maths 10.2.7",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -4036,7 +4430,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -4048,34 +4442,46 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
     }
   },
   {
-    "date": "2026-04-23",
-    "title": "P1 Y9S2 Maths 13.2.2",
-    "start": "08:20",
-    "end": "09:10",
-    "colour": "RoyalBlue",
+    "date": "2026-04-22",
+    "title": "P4 Y10S3 Maths 10.2.7",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "dodgerblue",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
     }
   },
   {
-    "date": "2026-04-23",
-    "title": "P2 Y12S0 Maths",
-    "start": "09:10",
-    "end": "10:00",
+    "date": "2026-04-22",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:50",
+    "end": "11:40",
     "colour": "lightsteelblue",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-23",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -4087,19 +4493,20 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
     "date": "2026-04-23",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
+    "title": "P1 Y9S2 Maths 13.2.2",
+    "start": "08:20",
+    "end": "09:10",
+    "colour": "RoyalBlue",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
     }
   },
   {
@@ -4111,8 +4518,33 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-23",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-24",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -4124,20 +4556,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-04-24",
-    "title": "P3 Y12S0 Maths",
-    "start": "10:30",
-    "end": "11:20",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -4149,7 +4568,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -4161,7 +4580,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -4173,8 +4592,58 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-24",
+    "title": "P3 Y12S0 Maths",
+    "start": "10:30",
+    "end": "11:20",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-27",
+    "title": "Chapel/Tutor",
+    "start": "10:00",
+    "end": "10:50",
+    "colour": "mediumpurple",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-04-27",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-04-27",
+    "title": "P3 Y9S2 Maths 13.2.2",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "RoyalBlue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "2"
     }
   },
   {
@@ -4186,33 +4655,8 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
-    }
-  },
-  {
-    "date": "2026-04-27",
-    "title": "Chapel/Tutor",
-    "start": "10:00",
-    "end": "10:50",
-    "colour": "mediumpurple",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-04-27",
-    "title": "P3 Y9S2 Maths 13.2.2",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "RoyalBlue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "2"
     }
   },
   {
@@ -4224,20 +4668,8 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
-    }
-  },
-  {
-    "date": "2026-04-27",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
     }
   },
   {
@@ -4249,8 +4681,20 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-28",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -4262,7 +4706,19 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
+    }
+  },
+  {
+    "date": "2026-04-28",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -4274,33 +4730,8 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
-    }
-  },
-  {
-    "date": "2026-04-28",
-    "title": "P4 Y9 HPL",
-    "start": "11:40",
-    "end": "12:30",
-    "colour": "green",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-04-28",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
     }
   },
   {
@@ -4312,21 +4743,33 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-28",
+    "title": "P4 Y9 HPL",
+    "start": "11:40",
+    "end": "12:30",
+    "colour": "green",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
     }
   },
   {
     "date": "2026-04-29",
-    "title": "P2 Y10S3 Maths 10.2.7",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "dodgerblue",
+    "title": "Robotics",
+    "start": "15:00",
+    "end": "16:00",
+    "colour": "orange",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -4338,20 +4781,19 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
     "date": "2026-04-29",
-    "title": "P3 Y10 HPL",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "yellowgreen",
+    "title": "Lunch",
+    "start": "12:30",
+    "end": "13:10",
+    "colour": "khaki",
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -4363,8 +4805,21 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
+    }
+  },
+  {
+    "date": "2026-04-29",
+    "title": "P2 Y10S3 Maths 10.2.7",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
     }
   },
   {
@@ -4376,12 +4831,25 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "1"
     }
   },
   {
     "date": "2026-04-29",
+    "title": "P3 Y10 HPL",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "yellowgreen",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-30",
     "title": "Lunch",
     "start": "12:30",
     "end": "13:10",
@@ -4389,20 +4857,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-04-30",
-    "title": "P2 Y12S0 Maths",
-    "start": "09:10",
-    "end": "10:00",
-    "colour": "lightsteelblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -4414,32 +4869,7 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
-    }
-  },
-  {
-    "date": "2026-04-30",
-    "title": "P3 Y10S3 Maths 10.2.7",
-    "start": "10:50",
-    "end": "11:40",
-    "colour": "dodgerblue",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
-      "priority": "1"
-    }
-  },
-  {
-    "date": "2026-04-30",
-    "title": "Lunch",
-    "start": "12:30",
-    "end": "13:10",
-    "colour": "khaki",
-    "meta": {
-      "origin": "auto",
-      "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226"
+      "last_updated": "2026-02-20T22:12:02.355253"
     }
   },
   {
@@ -4451,8 +4881,34 @@
     "meta": {
       "origin": "auto",
       "locked": false,
-      "last_updated": "2026-02-17T21:11:20.564226",
+      "last_updated": "2026-02-20T22:12:02.355253",
       "priority": "2"
+    }
+  },
+  {
+    "date": "2026-04-30",
+    "title": "P3 Y10S3 Maths 10.2.7",
+    "start": "10:50",
+    "end": "11:40",
+    "colour": "dodgerblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
+    }
+  },
+  {
+    "date": "2026-04-30",
+    "title": "P2 Y12S0 Maths",
+    "start": "09:10",
+    "end": "10:00",
+    "colour": "lightsteelblue",
+    "meta": {
+      "origin": "auto",
+      "locked": false,
+      "last_updated": "2026-02-20T22:12:02.355253",
+      "priority": "1"
     }
   }
 ]
