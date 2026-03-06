@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2026-03-06",
+    "start": "22:00",
+    "end": "23:00",
+    "title": "Marking",
+    "colour": "purple"
+  },
+  {
+    "date": "2026-03-06",
+    "start": "23:00",
+    "end": "23:45",
+    "title": "Kotlin PoC",
+    "colour": "orange"
+  },
+  {
+    "date": "2026-03-09",
+    "start": "08:30",
+    "end": "09:20",
+    "title": "Staff Briefing",
+    "colour": "red"
+  },
+  {
+    "date": "2026-03-09",
+    "start": "09:20",
+    "end": "10:10",
+    "title": "Year 8 Maths",
+    "colour": "blue"
+  },
+  {
+    "date": "2026-03-09",
+    "start": "10:10",
+    "end": "11:00",
+    "title": "Yr 10 Computing",
+    "colour": "green"
+  },
+  {
+    "date": "2026-03-09",
+    "start": "11:00",
+    "end": "11:30",
+    "title": "Recess",
+    "colour": "orange"
+  },
+  {
+    "date": "2026-03-09",
+    "start": "11:30",
+    "end": "13:10",
+    "title": "Arduino Prac",
+    "colour": "purple"
+  },
+  {
+    "date": "2026-03-09",
+    "start": "13:10",
+    "end": "13:50",
+    "title": "Lunch",
+    "colour": "orange"
+  },
+  {
+    "date": "2026-03-09",
+    "start": "13:50",
+    "end": "15:00",
+    "title": "Free Period",
+    "colour": "#333333"
+  }
+]
