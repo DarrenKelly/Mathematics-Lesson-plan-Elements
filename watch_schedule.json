@@ -10,11 +10,11 @@
   ],
   "events": [
     {
-      "date": "2026-02-26",
-      "title": "P1 Y10S3 Maths 10.2.7",
-      "start": "08:20",
-      "end": "09:10",
-      "colour": "dodgerblue"
+      "date": "2026-03-07",
+      "title": "Lunch",
+      "start": "19:20",
+      "end": "19:50",
+      "colour": "purple"
     },
     {
       "date": "2026-02-26",
@@ -1187,4 +1187,5 @@
     }
   ]
 }
+
 
