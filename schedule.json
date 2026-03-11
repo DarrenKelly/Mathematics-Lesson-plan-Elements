@@ -2179,7 +2179,7 @@
       "title": "9:10 Y11Fr 14-G-3",
       "start": "09:10",
       "end": "10:00",
-      "colour": "charm",
+      "colour": "seagreen",
       "meta": {
         "origin": "special",
         "locked": true,
@@ -4627,3 +4627,4 @@
     }
   ]
 }
+
