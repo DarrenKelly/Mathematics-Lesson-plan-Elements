@@ -1,123 +1,16 @@
 {
   "events": [
     {
-      "date": "2026-03-12",
-      "title": "8:20 9:10 Y11Ex Angus 10-2-4",
-      "start": "08:20",
-      "end": "09:10",
-      "colour": "deepskyblue"
-    },
-    {
-      "date": "2026-03-12",
-      "title": "09:10 P2 Y12S0 Maths",
-      "start": "09:10",
-      "end": "10:00",
-      "colour": "lightsteelblue"
-    },
-    {
-      "date": "2026-03-12",
-      "title": "Assembly",
-      "start": "10:00",
-      "end": "10:50",
-      "colour": "plum"
-    },
-    {
-      "date": "2026-03-12",
-      "title": "10:50 P3 Y10S3 Maths 10.2.7",
-      "start": "10:50",
-      "end": "11:40",
-      "colour": "dodgerblue"
-    },
-    {
-      "date": "2026-03-12",
-      "title": "Lunch",
-      "start": "12:30",
-      "end": "13:10",
-      "colour": "khaki"
-    },
-    {
-      "date": "2026-03-12",
-      "title": "13:10 P5 Y9S2 Maths 13.2.2",
-      "start": "13:10",
-      "end": "14:00",
-      "colour": "RoyalBlue"
-    },
-    {
-      "date": "2026-03-12",
-      "title": "14:00 Y11Ex Angus 10-2-4",
-      "start": "14:00",
-      "end": "14:50",
-      "colour": "deepskyblue"
-    },
-    {
-      "date": "2026-03-12",
-      "title": "Robotics",
-      "start": "15:00",
-      "end": "17:00",
-      "colour": "orange"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "9:10 Y11Fr 14-G-3",
-      "start": "09:10",
-      "end": "10:00",
-      "colour": "seagreen"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "Recess",
-      "start": "10:00",
-      "end": "10:30",
-      "colour": "gold"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "10:30 P3 Y12S0 Maths",
-      "start": "10:30",
-      "end": "11:20",
-      "colour": "lightsteelblue"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "11:20 P4 Y10S3 Maths 10.2.7",
-      "start": "11:20",
-      "end": "12:10",
-      "colour": "dodgerblue"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "House Meeting",
-      "start": "12:10",
-      "end": "12:30",
-      "colour": "orchid"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "Lunch",
-      "start": "12:30",
-      "end": "13:10",
-      "colour": "khaki"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "TAS 9GR21 7-1-2",
-      "start": "13:10",
-      "end": "14:00",
-      "colour": "darkred"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "TAS 11DT4-2 7-G-3",
-      "start": "14:00",
-      "end": "14:50",
-      "colour": "darkred"
+      "date": "2026-03-16",
+      "title": "Day 5",
+      "colour": "slategray"
     },
     {
       "date": "2026-03-16",
       "title": "08:20 P1 Y9S2 Maths 13.2.2",
       "start": "08:20",
       "end": "09:10",
-      "colour": "RoyalBlue"
+      "colour": "gray"
     },
     {
       "date": "2026-03-16",
@@ -125,6 +18,13 @@
       "start": "09:10",
       "end": "10:00",
       "colour": "lightsteelblue"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "11:40 P4 Y8S2 Maths 13.2.2",
+      "start": "11:40",
+      "end": "12:30",
+      "colour": "aqua"
     },
     {
       "date": "2026-03-16",
@@ -139,6 +39,18 @@
       "start": "13:10",
       "end": "14:00",
       "colour": "dodgerblue"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "TAS 9GR21 7-1-2",
+      "start": "14:00",
+      "end": "14:50",
+      "colour": "darkred"
+    },
+    {
+      "date": "2026-03-17",
+      "title": "Day 6",
+      "colour": "slategray"
     },
     {
       "date": "2026-03-17",
@@ -156,6 +68,13 @@
     },
     {
       "date": "2026-03-17",
+      "title": "13:10 P5 Y8S2 Maths 13.2.2",
+      "start": "13:10",
+      "end": "14:00",
+      "colour": "aqua"
+    },
+    {
+      "date": "2026-03-17",
       "title": "14:00 P6 Y10S3 Maths 10.2.7",
       "start": "14:00",
       "end": "14:50",
@@ -167,6 +86,11 @@
       "start": "15:00",
       "end": "17:00",
       "colour": "orange"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "Day 7",
+      "colour": "slategray"
     },
     {
       "date": "2026-03-18",
@@ -187,7 +111,7 @@
       "title": "10:50 P3 Y9S2 Maths 13.2.2",
       "start": "10:50",
       "end": "11:40",
-      "colour": "RoyalBlue"
+      "colour": "gray"
     },
     {
       "date": "2026-03-18",
@@ -211,6 +135,25 @@
       "colour": "mediumseagreen"
     },
     {
+      "date": "2026-03-18",
+      "title": "14:00 P6 Y8S2 Maths 13.2.2",
+      "start": "14:00",
+      "end": "14:50",
+      "colour": "aqua"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "Day 1",
+      "colour": "slategray"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "08:20 P1 Y8S2 Maths 13.2.2",
+      "start": "08:20",
+      "end": "09:10",
+      "colour": "aqua"
+    },
+    {
       "date": "2026-03-19",
       "title": "House Group",
       "start": "10:00",
@@ -222,7 +165,7 @@
       "title": "10:50 P3 Y9S2 Maths 13.2.2",
       "start": "10:50",
       "end": "11:40",
-      "colour": "RoyalBlue"
+      "colour": "gray"
     },
     {
       "date": "2026-03-19",
@@ -251,6 +194,11 @@
       "start": "15:00",
       "end": "17:00",
       "colour": "orange"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "Day 2",
+      "colour": "slategray"
     },
     {
       "date": "2026-03-20",
@@ -295,6 +243,18 @@
       "colour": "khaki"
     },
     {
+      "date": "2026-03-20",
+      "title": "14:00 P6 Y8S2 Maths 13.2.2",
+      "start": "14:00",
+      "end": "14:50",
+      "colour": "aqua"
+    },
+    {
+      "date": "2026-03-23",
+      "title": "Day 3",
+      "colour": "slategray"
+    },
+    {
       "date": "2026-03-23",
       "title": "09:10 P2 Y12S0 Maths",
       "start": "09:10",
@@ -320,7 +280,19 @@
       "title": "13:10 P5 Y9S2 Maths 13.2.2",
       "start": "13:10",
       "end": "14:00",
-      "colour": "RoyalBlue"
+      "colour": "gray"
+    },
+    {
+      "date": "2026-03-24",
+      "title": "Day 4",
+      "colour": "slategray"
+    },
+    {
+      "date": "2026-03-24",
+      "title": "09:10 P2 Y8S2 Maths 13.2.2",
+      "start": "09:10",
+      "end": "10:00",
+      "colour": "aqua"
     },
     {
       "date": "2026-03-24",
@@ -348,7 +320,7 @@
       "title": "14:00 P6 Y9S2 Maths 13.2.2",
       "start": "14:00",
       "end": "14:50",
-      "colour": "RoyalBlue"
+      "colour": "gray"
     },
     {
       "date": "2026-03-24",
@@ -356,6 +328,11 @@
       "start": "15:00",
       "end": "17:00",
       "colour": "orange"
+    },
+    {
+      "date": "2026-03-25",
+      "title": "Day 5",
+      "colour": "slategray"
     },
     {
       "date": "2026-03-25",
@@ -380,6 +357,13 @@
     },
     {
       "date": "2026-03-25",
+      "title": "11:40 P4 Y8S2 Maths 13.2.2",
+      "start": "11:40",
+      "end": "12:30",
+      "colour": "aqua"
+    },
+    {
+      "date": "2026-03-25",
       "title": "Lunch",
       "start": "12:30",
       "end": "13:10",
@@ -391,6 +375,11 @@
       "start": "13:10",
       "end": "14:00",
       "colour": "dodgerblue"
+    },
+    {
+      "date": "2026-03-26",
+      "title": "Day 6",
+      "colour": "slategray"
     },
     {
       "date": "2026-03-26",
@@ -415,6 +404,13 @@
     },
     {
       "date": "2026-03-26",
+      "title": "13:10 P5 Y8S2 Maths 13.2.2",
+      "start": "13:10",
+      "end": "14:00",
+      "colour": "aqua"
+    },
+    {
+      "date": "2026-03-26",
       "title": "14:00 P6 Y10S3 Maths 10.2.7",
       "start": "14:00",
       "end": "14:50",
@@ -426,6 +422,11 @@
       "start": "15:00",
       "end": "17:00",
       "colour": "orange"
+    },
+    {
+      "date": "2026-03-27",
+      "title": "Day 7",
+      "colour": "slategray"
     },
     {
       "date": "2026-03-27",
@@ -446,7 +447,7 @@
       "title": "10:30 P3 Y9S2 Maths 13.2.2",
       "start": "10:30",
       "end": "11:20",
-      "colour": "RoyalBlue"
+      "colour": "gray"
     },
     {
       "date": "2026-03-27",
@@ -477,11 +478,30 @@
       "colour": "mediumseagreen"
     },
     {
+      "date": "2026-03-27",
+      "title": "14:00 P6 Y8S2 Maths 13.2.2",
+      "start": "14:00",
+      "end": "14:50",
+      "colour": "aqua"
+    },
+    {
+      "date": "2026-03-30",
+      "title": "Day 1",
+      "colour": "slategray"
+    },
+    {
+      "date": "2026-03-30",
+      "title": "08:20 P1 Y8S2 Maths 13.2.2",
+      "start": "08:20",
+      "end": "09:10",
+      "colour": "aqua"
+    },
+    {
       "date": "2026-03-30",
       "title": "10:50 P3 Y9S2 Maths 13.2.2",
       "start": "10:50",
       "end": "11:40",
-      "colour": "RoyalBlue"
+      "colour": "gray"
     },
     {
       "date": "2026-03-30",
@@ -503,6 +523,11 @@
       "start": "13:10",
       "end": "14:00",
       "colour": "lightsteelblue"
+    },
+    {
+      "date": "2026-03-31",
+      "title": "Day 2",
+      "colour": "slategray"
     },
     {
       "date": "2026-03-31",
@@ -534,10 +559,22 @@
     },
     {
       "date": "2026-03-31",
+      "title": "14:00 P6 Y8S2 Maths 13.2.2",
+      "start": "14:00",
+      "end": "14:50",
+      "colour": "aqua"
+    },
+    {
+      "date": "2026-03-31",
       "title": "Robotics",
       "start": "15:00",
       "end": "17:00",
       "colour": "orange"
+    },
+    {
+      "date": "2026-04-01",
+      "title": "Day 3",
+      "colour": "slategray"
     },
     {
       "date": "2026-04-01",
@@ -579,7 +616,19 @@
       "title": "13:10 P5 Y9S2 Maths 13.2.2",
       "start": "13:10",
       "end": "14:00",
-      "colour": "RoyalBlue"
+      "colour": "gray"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "Day 4",
+      "colour": "slategray"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "09:10 P2 Y8S2 Maths 13.2.2",
+      "start": "09:10",
+      "end": "10:00",
+      "colour": "aqua"
     },
     {
       "date": "2026-04-02",
@@ -614,7 +663,7 @@
       "title": "14:00 P6 Y9S2 Maths 13.2.2",
       "start": "14:00",
       "end": "14:50",
-      "colour": "RoyalBlue"
+      "colour": "gray"
     },
     {
       "date": "2026-04-02",
@@ -625,10 +674,15 @@
     },
     {
       "date": "2026-04-03",
+      "title": "Day 5",
+      "colour": "slategray"
+    },
+    {
+      "date": "2026-04-03",
       "title": "08:20 P1 Y9S2 Maths 13.2.2",
       "start": "08:20",
       "end": "09:10",
-      "colour": "RoyalBlue"
+      "colour": "gray"
     },
     {
       "date": "2026-04-03",
@@ -643,6 +697,13 @@
       "start": "10:00",
       "end": "10:30",
       "colour": "gold"
+    },
+    {
+      "date": "2026-04-03",
+      "title": "11:20 P4 Y8S2 Maths 13.2.2",
+      "start": "11:20",
+      "end": "12:10",
+      "colour": "aqua"
     },
     {
       "date": "2026-04-03",
@@ -667,6 +728,11 @@
     },
     {
       "date": "2026-04-06",
+      "title": "Day 6",
+      "colour": "slategray"
+    },
+    {
+      "date": "2026-04-06",
       "title": "10:50 P3 Y12S0 Maths",
       "start": "10:50",
       "end": "11:40",
@@ -681,10 +747,22 @@
     },
     {
       "date": "2026-04-06",
+      "title": "13:10 P5 Y8S2 Maths 13.2.2",
+      "start": "13:10",
+      "end": "14:00",
+      "colour": "aqua"
+    },
+    {
+      "date": "2026-04-06",
       "title": "14:00 P6 Y10S3 Maths 10.2.7",
       "start": "14:00",
       "end": "14:50",
       "colour": "dodgerblue"
+    },
+    {
+      "date": "2026-04-07",
+      "title": "Day 7",
+      "colour": "slategray"
     },
     {
       "date": "2026-04-07",
@@ -698,7 +776,7 @@
       "title": "10:50 P3 Y9S2 Maths 13.2.2",
       "start": "10:50",
       "end": "11:40",
-      "colour": "RoyalBlue"
+      "colour": "gray"
     },
     {
       "date": "2026-04-07",
@@ -723,10 +801,22 @@
     },
     {
       "date": "2026-04-07",
+      "title": "14:00 P6 Y8S2 Maths 13.2.2",
+      "start": "14:00",
+      "end": "14:50",
+      "colour": "aqua"
+    },
+    {
+      "date": "2026-04-07",
       "title": "Robotics",
       "start": "15:00",
       "end": "17:00",
       "colour": "orange"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "Day 1",
+      "colour": "slategray"
     },
     {
       "date": "2026-04-08",
@@ -747,7 +837,7 @@
       "title": "10:50 P3 Y9S2 Maths 13.2.2",
       "start": "10:50",
       "end": "11:40",
-      "colour": "RoyalBlue"
+      "colour": "gray"
     },
     {
       "date": "2026-04-08",
@@ -769,6 +859,11 @@
       "start": "13:10",
       "end": "14:00",
       "colour": "lightsteelblue"
+    },
+    {
+      "date": "2026-04-09",
+      "title": "Day 2",
+      "colour": "slategray"
     },
     {
       "date": "2026-04-09",
@@ -807,10 +902,22 @@
     },
     {
       "date": "2026-04-09",
+      "title": "14:00 P6 Y8S2 Maths 13.2.2",
+      "start": "14:00",
+      "end": "14:50",
+      "colour": "aqua"
+    },
+    {
+      "date": "2026-04-09",
       "title": "Robotics",
       "start": "15:00",
       "end": "17:00",
       "colour": "orange"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "Day 3",
+      "colour": "slategray"
     },
     {
       "date": "2026-04-10",
@@ -852,7 +959,19 @@
       "title": "13:10 P5 Y9S2 Maths 13.2.2",
       "start": "13:10",
       "end": "14:00",
-      "colour": "RoyalBlue"
+      "colour": "gray"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "Day 4",
+      "colour": "slategray"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "09:10 P2 Y8S2 Maths 13.2.2",
+      "start": "09:10",
+      "end": "10:00",
+      "colour": "aqua"
     },
     {
       "date": "2026-04-13",
@@ -880,14 +999,19 @@
       "title": "14:00 P6 Y9S2 Maths 13.2.2",
       "start": "14:00",
       "end": "14:50",
-      "colour": "RoyalBlue"
+      "colour": "gray"
+    },
+    {
+      "date": "2026-04-14",
+      "title": "Day 5",
+      "colour": "slategray"
     },
     {
       "date": "2026-04-14",
       "title": "08:20 P1 Y9S2 Maths 13.2.2",
       "start": "08:20",
       "end": "09:10",
-      "colour": "RoyalBlue"
+      "colour": "gray"
     },
     {
       "date": "2026-04-14",
@@ -895,6 +1019,13 @@
       "start": "09:10",
       "end": "10:00",
       "colour": "lightsteelblue"
+    },
+    {
+      "date": "2026-04-14",
+      "title": "11:40 P4 Y8S2 Maths 13.2.2",
+      "start": "11:40",
+      "end": "12:30",
+      "colour": "aqua"
     },
     {
       "date": "2026-04-14",
@@ -916,6 +1047,11 @@
       "start": "15:00",
       "end": "17:00",
       "colour": "orange"
+    },
+    {
+      "date": "2026-04-15",
+      "title": "Day 6",
+      "colour": "slategray"
     },
     {
       "date": "2026-04-15",
@@ -947,10 +1083,22 @@
     },
     {
       "date": "2026-04-15",
+      "title": "13:10 P5 Y8S2 Maths 13.2.2",
+      "start": "13:10",
+      "end": "14:00",
+      "colour": "aqua"
+    },
+    {
+      "date": "2026-04-15",
       "title": "14:00 P6 Y10S3 Maths 10.2.7",
       "start": "14:00",
       "end": "14:50",
       "colour": "dodgerblue"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "Day 7",
+      "colour": "slategray"
     },
     {
       "date": "2026-04-16",
@@ -971,7 +1119,7 @@
       "title": "10:50 P3 Y9S2 Maths 13.2.2",
       "start": "10:50",
       "end": "11:40",
-      "colour": "RoyalBlue"
+      "colour": "gray"
     },
     {
       "date": "2026-04-16",
@@ -996,10 +1144,29 @@
     },
     {
       "date": "2026-04-16",
+      "title": "14:00 P6 Y8S2 Maths 13.2.2",
+      "start": "14:00",
+      "end": "14:50",
+      "colour": "aqua"
+    },
+    {
+      "date": "2026-04-16",
       "title": "Robotics",
       "start": "15:00",
       "end": "17:00",
       "colour": "orange"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "Day 1",
+      "colour": "slategray"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "08:20 P1 Y8S2 Maths 13.2.2",
+      "start": "08:20",
+      "end": "09:10",
+      "colour": "aqua"
     },
     {
       "date": "2026-04-17",
@@ -1013,7 +1180,7 @@
       "title": "10:30 P3 Y9S2 Maths 13.2.2",
       "start": "10:30",
       "end": "11:20",
-      "colour": "RoyalBlue"
+      "colour": "gray"
     },
     {
       "date": "2026-04-17",
@@ -1045,6 +1212,11 @@
     },
     {
       "date": "2026-04-20",
+      "title": "Day 2",
+      "colour": "slategray"
+    },
+    {
+      "date": "2026-04-20",
       "title": "09:10 P2 Y10S3 Maths 10.2.7",
       "start": "09:10",
       "end": "10:00",
@@ -1072,6 +1244,18 @@
       "colour": "khaki"
     },
     {
+      "date": "2026-04-20",
+      "title": "14:00 P6 Y8S2 Maths 13.2.2",
+      "start": "14:00",
+      "end": "14:50",
+      "colour": "aqua"
+    },
+    {
+      "date": "2026-04-21",
+      "title": "Day 3",
+      "colour": "slategray"
+    },
+    {
       "date": "2026-04-21",
       "title": "09:10 P2 Y12S0 Maths",
       "start": "09:10",
@@ -1097,7 +1281,7 @@
       "title": "13:10 P5 Y9S2 Maths 13.2.2",
       "start": "13:10",
       "end": "14:00",
-      "colour": "RoyalBlue"
+      "colour": "gray"
     },
     {
       "date": "2026-04-21",
@@ -1108,10 +1292,22 @@
     },
     {
       "date": "2026-04-22",
+      "title": "Day 4",
+      "colour": "slategray"
+    },
+    {
+      "date": "2026-04-22",
       "title": "Year 5 HPL Maths",
       "start": "08:20",
       "end": "09:10",
       "colour": "indianred"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "09:10 P2 Y8S2 Maths 13.2.2",
+      "start": "09:10",
+      "end": "10:00",
+      "colour": "aqua"
     },
     {
       "date": "2026-04-22",
@@ -1146,14 +1342,19 @@
       "title": "14:00 P6 Y9S2 Maths 13.2.2",
       "start": "14:00",
       "end": "14:50",
-      "colour": "RoyalBlue"
+      "colour": "gray"
+    },
+    {
+      "date": "2026-04-23",
+      "title": "Day 5",
+      "colour": "slategray"
     },
     {
       "date": "2026-04-23",
       "title": "08:20 P1 Y9S2 Maths 13.2.2",
       "start": "08:20",
       "end": "09:10",
-      "colour": "RoyalBlue"
+      "colour": "gray"
     },
     {
       "date": "2026-04-23",
@@ -1168,6 +1369,13 @@
       "start": "10:00",
       "end": "10:50",
       "colour": "plum"
+    },
+    {
+      "date": "2026-04-23",
+      "title": "11:40 P4 Y8S2 Maths 13.2.2",
+      "start": "11:40",
+      "end": "12:30",
+      "colour": "aqua"
     },
     {
       "date": "2026-04-23",
@@ -1189,6 +1397,53 @@
       "start": "15:00",
       "end": "17:00",
       "colour": "orange"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "Day 6",
+      "colour": "slategray"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "Recess",
+      "start": "10:00",
+      "end": "10:30",
+      "colour": "gold"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "10:30 P3 Y12S0 Maths",
+      "start": "10:30",
+      "end": "11:20",
+      "colour": "lightsteelblue"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "House Meeting",
+      "start": "12:10",
+      "end": "12:30",
+      "colour": "orchid"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "Lunch",
+      "start": "12:30",
+      "end": "13:10",
+      "colour": "khaki"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "13:10 P5 Y8S2 Maths 13.2.2",
+      "start": "13:10",
+      "end": "14:00",
+      "colour": "aqua"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "14:00 P6 Y10S3 Maths 10.2.7",
+      "start": "14:00",
+      "end": "14:50",
+      "colour": "dodgerblue"
     }
   ]
 }
